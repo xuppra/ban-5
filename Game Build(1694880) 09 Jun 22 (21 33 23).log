@@ -1,0 +1,793 @@
+<2022-06-09 19:33:23.694>: [Info]: BackupNameAttachment=" Build(1694880) 09 Jun 22 (21 33 23)"  -- used by backup system
+
+<2022-06-09 19:33:23.694>: [Info]: Log Started at local time Thu Jun  9 21:33:23 2022
+<2022-06-09 19:33:23.695>: [Info]: Built on Sat Jun  4 00:49:10 2022
+
+<2022-06-09 19:33:23.695>: [Info]: Running 64 bit Windows version
+<2022-06-09 19:33:23.695>: [Info]: Executable: NewWorld.exe [AZ_RETAIL_CONFIG]
+<2022-06-09 19:33:23.695>: [Info]: FileVersion: 1.18.555.1694880
+<2022-06-09 19:33:23.695>: [Info]: ProductVersion: 1.18.555.1694880
+<2022-06-09 19:33:23.695>: [Info]: Using Microsoft (tm) C++ Standard Library implementation
+
+<2022-06-09 19:33:23.696>: [Info] (AZCore): [System] Loading system configuration from system_windows_pc.cfg...
+<2022-06-09 19:33:23.696>: [Info] (AZCore): [System] GameDir: Assets
+
+<2022-06-09 19:33:24.657>: [Info]: 
+<2022-06-09 19:33:24.658>: [Info]: Total number of logical processors: 16
+<2022-06-09 19:33:24.658>: [Info]: Number of available logical processors: 16
+<2022-06-09 19:33:24.658>: [Info]: Total number of system cores: 8
+<2022-06-09 19:33:24.658>: [Info]: Number of cores available to process: 8
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 0:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 1:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 2:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 3:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 4:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 5:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 6:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Processor 7:
+<2022-06-09 19:33:24.658>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:24.658>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:33:24.658>: [Info]:   FPU: On-Chip
+<2022-06-09 19:33:24.658>: [Info]:   3DNow!: not present
+<2022-06-09 19:33:24.658>: [Info]:   MMX: not present
+<2022-06-09 19:33:24.658>: [Info]:   SSE: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE2: present
+<2022-06-09 19:33:24.658>: [Info]:   SSE3: present
+<2022-06-09 19:33:24.658>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:33:24.658>: [Info]:  
+<2022-06-09 19:33:24.658>: [Info]: Windows 10 64 bit (build 10.0.19043)
+<2022-06-09 19:33:24.658>: [Info]: System language: French
+<2022-06-09 19:33:24.658>: [Info]: Windows Directory: "C:\WINDOWS"
+<2022-06-09 19:33:24.658>: [Info]: Local time is 21:33:24 06/09/22, system running for 673 minutes
+<2022-06-09 19:33:24.658>: [Info]: 16316MB physical memory installed, 8414MB available, 134217727MB virtual memory installed, 48 percent of memory in use
+<2022-06-09 19:33:24.659>: [Info]: PageFile usage: 237MB, Working Set: 287MB, Peak PageFile usage: 363MB,
+<2022-06-09 19:33:24.659>: [Info]: Current display mode is 78043832, (Unknown graphics card)
+<2022-06-09 19:33:24.659>: [Info]: IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<2022-06-09 19:33:24.659>: [Info]: --------------------------------------------------------------------------------
+<2022-06-09 19:33:24.661>: [Info] (AZCore): [System] Stream Engine Initialization
+<2022-06-09 19:33:24.662>: [Info]: GameName: New World
+<2022-06-09 19:33:24.662>: [Info]: BuildTime: Sat Jun  4 00:49:10 2022
+
+<2022-06-09 19:33:24.662>: [Info] (AZCore): [System] Physics initialization
+<2022-06-09 19:33:24.663>: [Info] (AZCore): [System] Renderer initialization
+<2022-06-09 19:33:24.666>: [Info]: Logging video adapters:
+<2022-06-09 19:33:26.063>: [Info]: - Radeon RX 580 Series (vendor = 0x1002, device = 0x67df)
+<2022-06-09 19:33:26.063>: [Info]:   - Adapter index: 0
+<2022-06-09 19:33:26.063>: [Info]:   - Dedicated video memory: 8170 MB
+<2022-06-09 19:33:26.063>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-06-09 19:33:26.063>: [Info]:   - Displays connected: yes
+<2022-06-09 19:33:26.063>: [Info]:   - Suitable rendering device: yes
+<2022-06-09 19:33:26.435>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2022-06-09 19:33:26.435>: [Info]:   - Adapter index: 1
+<2022-06-09 19:33:26.435>: [Info]:   - Dedicated video memory: 0 MB
+<2022-06-09 19:33:26.435>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2022-06-09 19:33:26.435>: [Info]:   - Displays connected: no
+<2022-06-09 19:33:26.435>: [Info]:   - Suitable rendering device: no
+<2022-06-09 19:33:28.606>: [Info]: Active GPUs: 1
+<2022-06-09 19:33:29.842>: [Info] (AZCore): [Audio] AudioSystem initialized in High Ram mode. Available RAM [16315]MB, LowRam cutoff is [9216]MB
+<2022-06-09 19:33:31.325>: [Info] (AZCore): [System] Font initialization
+<2022-06-09 19:33:31.325>: [Info]: Using FreeType 2.5.0
+<2022-06-09 19:33:49.123>: [Info] (AZCore): [System] Time initialization
+<2022-06-09 19:33:49.123>: [Info] (AZCore): [System] Input initialization
+<2022-06-09 19:33:49.123>: [Info] (AZCore): [System] UI system initialization
+<2022-06-09 19:33:49.124>: [Info] (AZCore): [System] Initializing Animation System
+<2022-06-09 19:33:49.124>: [Info] (AZCore): [System] Initializing 3D Engine
+<2022-06-09 19:33:49.125>: [Info]: Sky light: Optical lookup tables loaded off disc.
+<2022-06-09 19:33:49.126>: [Info] (AZCore): [System] Script System Initialization
+<2022-06-09 19:33:49.126>: [Info] (AZCore): [System] Entity system initialization
+<2022-06-09 19:33:49.128>: [Info] (AZCore): [System] Initializing additional systems
+<2022-06-09 19:33:49.128>: [Info] (AZCore): [System] Dynamic Response System initialization
+<2022-06-09 19:33:49.128>: [Info] (AZCore): [System] No Dynamic Response System was loaded from a module, the system will use the NULL DynamicResponseSystem.
+<2022-06-09 19:33:49.129>: [Info]: Running machine spec auto detect (64 bit)...
+<2022-06-09 19:33:49.129>: [Info]: - Windows 10 64 bit (build 10.0.19043)
+<2022-06-09 19:33:49.129>: [Info]: - System memory
+<2022-06-09 19:33:49.129>: [Info]: --- 16315 MB
+<2022-06-09 19:33:49.129>: [Info]: - Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:33:49.129>: [Info]: --- Number of available cores: 8 (out of 8)
+<2022-06-09 19:33:49.129>: [Info]: --- Number of logical processors: 16
+<2022-06-09 19:33:49.444>: [Info]: - Radeon RX 580 Series (vendor = 0x1002, device = 0x67df)
+<2022-06-09 19:33:49.444>: [Info]: --- Dedicated video memory: 8170 MB
+<2022-06-09 19:33:49.444>: [Info]: --- Feature level: DX11 (SM 5.0)
+<2022-06-09 19:33:49.446>: [Info]: - Final rating: Machine class 2
+<2022-06-09 19:33:50.586>: [Info] (AZCore): [System] == Version Info ===============================================================
+
+<2022-06-09 19:33:50.586>: [Info] (AZCore): [System] [RETAIL].Javelin.1.18.555.1694880
+
+<2022-06-09 19:33:50.586>: [Info] (AZCore): [System] ===============================================================================
+
+<2022-06-09 19:33:50.596>: [Info]: Client config override file not found: @assets@/ClientOverride.json
+<2022-06-09 19:33:52.547>: [Info] (AZCore): [Game] Steam Initialized!
+<2022-06-09 19:33:52.547>: [Info] (AZCore): [Game] Using remote config: true
+<2022-06-09 19:33:52.548>: [Info] (AZCore): [Game] Steam Utils obtained? true
+<2022-06-09 19:33:52.548>: [Info] (AZCore): [Game] Using Steam App ID: 1063730
+<2022-06-09 19:33:52.548>: [Info] (AZCore): [StackConfig] Configuring remote config with bucket ags-javelin-remote-config
+<2022-06-09 19:33:52.548>: [Info]: Channel service uri: https://d2c74t4zimux3r.cloudfront.net/STEAM_APP_ID.1063730.json
+<2022-06-09 19:33:53.066>: [Info]: Channel name: Retail
+<2022-06-09 19:33:53.066>: [Info]: Found cluster data for cluster id: fra-prod
+<2022-06-09 19:33:53.066>: [Info]: Display Name: EU Central
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack: https://2mfrik7h83.execute-api.us-east-1.amazonaws.com/Prod
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack Region: us-east-1
+<2022-06-09 19:33:53.066>: [Info]: Gateway Host: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack: d1w0bfy6smo4d1.cloudfront.net
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack Region: eu-central-1
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack: https://d1w0bfy6smo4d1.cloudfront.net/prod
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack Region: eu-central-1
+<2022-06-09 19:33:53.066>: [Info]: Found cluster data for cluster id: gru-prod
+<2022-06-09 19:33:53.066>: [Info]: Display Name: SA East
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack: https://kqqt5twsi7.execute-api.us-east-1.amazonaws.com/Prod
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack Region: us-east-1
+<2022-06-09 19:33:53.066>: [Info]: Gateway Host: j4n6whncmi.execute-api.sa-east-1.amazonaws.com
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack: d1cjlmzk0xrm0z.cloudfront.net
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack Region: sa-east-1
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack: https://d1cjlmzk0xrm0z.cloudfront.net/prod
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack Region: sa-east-1
+<2022-06-09 19:33:53.066>: [Info]: Found cluster data for cluster id: iad-prod
+<2022-06-09 19:33:53.066>: [Info]: Display Name: US East
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack: https://eudbjx6mig.execute-api.us-east-1.amazonaws.com/Prod
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack Region: us-east-1
+<2022-06-09 19:33:53.066>: [Info]: Gateway Host: 0prplal5u1.execute-api.us-east-1.amazonaws.com
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack: d2oeuvxi3kfsrw.cloudfront.net
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack Region: us-east-1
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack: https://d2oeuvxi3kfsrw.cloudfront.net/prod
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack Region: us-east-1
+<2022-06-09 19:33:53.066>: [Info]: Found cluster data for cluster id: pdx-prod
+<2022-06-09 19:33:53.066>: [Info]: Display Name: US West
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack: https://q8hqllbg6k.execute-api.us-east-1.amazonaws.com/Prod
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack Region: us-east-1
+<2022-06-09 19:33:53.066>: [Info]: Gateway Host: v7irlu1nrl.execute-api.us-west-2.amazonaws.com
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack: d3bj4csovi1fe8.cloudfront.net
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack Region: us-west-2
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack: https://d3bj4csovi1fe8.cloudfront.net/prod
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack Region: us-west-2
+<2022-06-09 19:33:53.066>: [Info]: Found platform metadata for key: ENTITLEMENTS.STEAM_APP_ID.1063730
+<2022-06-09 19:33:53.066>: [Info]: Found platform metadata for key: PERSONA.STEAM_APP_ID.1063730
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: fra-prod - arn:aws:iam::093607389475:role/AgsLiveResources-AllowPersonaAccessRole-1U24RJQDKWS63
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: fra-qa - arn:aws:iam::544220128841:role/AgsLiveResources-AllowPersonaAccessRole-PSN32B5D8G0L
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: fra-staging - arn:aws:iam::411585047658:role/AgsLiveResources-AllowPersonaAccessRole-709I6ZY9EAFH
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: gru-prod - arn:aws:iam::845253724667:role/AgsLiveResources-AllowPersonaAccessRole-SLHVYULH7U5
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: iad-prod - arn:aws:iam::819349112573:role/AgsLiveResources-AllowPersonaAccessRole-1PHH0BI346X75
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: iad-staging - arn:aws:iam::910532829260:role/AgsLiveResources-AllowPersonaAccessRole-OXG60NCUXR74
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: pdx-devo - arn:aws:iam::166847089677:role/AgsLiveResources-AllowPersonaAccessRole-15NKM8MRPA2BX
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: pdx-prod - arn:aws:iam::458929010575:role/AgsLiveResources-AllowPersonaAccessRole-QYL4I8P12BEA
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: pdx-qa - arn:aws:iam::379061375310:role/AgsLiveResources-AllowPersonaAccessRole-116SW3GWSL7P1
+<2022-06-09 19:33:53.066>: [Info]: Found persona role for cluster id: syd-prod - arn:aws:iam::018141801470:role/AgsLiveResources-AllowPersonaAccessRole-1CPZ9EG8SYMOQ
+<2022-06-09 19:33:53.066>: [Info]: Found cluster data for cluster id: syd-prod
+<2022-06-09 19:33:53.066>: [Info]: Display Name: AP Southeast
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack: https://hhf8nn71vb.execute-api.us-east-1.amazonaws.com/Prod
+<2022-06-09 19:33:53.066>: [Info]: Auth Stack Region: us-east-1
+<2022-06-09 19:33:53.066>: [Info]: Gateway Host: ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack: de4mfzk9wkelz.cloudfront.net
+<2022-06-09 19:33:53.066>: [Info]: Gateway Stack Region: ap-southeast-2
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack: https://de4mfzk9wkelz.cloudfront.net/prod
+<2022-06-09 19:33:53.066>: [Info]: Http Gateway Stack Region: ap-southeast-2
+<2022-06-09 19:33:57.380>: [Info]: Failure in initializing Fuel::Iap::IapClient: 14
+<2022-06-09 19:33:57.381>: [Info] (AZCore): [Game] LogEnvironmentString: ProductId: STEAM_APP_ID.1063730
+<2022-06-09 19:33:57.382>: [Info] (AZCore): [Game] LogEnvironmentString: ClusterId: fra-prod
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/versionless"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/555;1694880"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/555;1694880"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [AuthManager] Initializing Steam Auth Manager.
+<2022-06-09 19:33:57.384>: [Info] (AZCore): [SteamAuth] Initializing Persona.
+<2022-06-09 19:33:57.413>: [Info]: [EasyAntiCheat] Initializing EAC game client module...
+<2022-06-09 19:33:57.424>: [Info]: [EasyAntiCheat] ...EAC game client module initialized successfully.
+<2022-06-09 19:33:58.310>: [Info]: Initializing default materials...
+<2022-06-09 19:33:58.310>: [Info]: Initializing default footstep material...
+<2022-06-09 19:33:58.731>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-06-09 19:33:58.732>: [Info] (AZCore): [AsyncMapUnload] No previous level to unload, so not starting async.  Just loading this map now: ("frontendv2")
+<2022-06-09 19:33:58.732>: [Info]: ============================ Loading level frontendv2 ============================
+<2022-06-09 19:34:06.550>: [Info]: CGame::InitCoatlicueTerrain
+<2022-06-09 19:34:06.568>: [Info] (AZCore): [Game] 0x441F4C03(user) attempting sign-in.
+<2022-06-09 19:34:06.568>: [Info] (AZCore): [Game] LogEnvironmentString: Auth Mode: user
+<2022-06-09 19:34:06.568>: [Info] (AZCore): [SteamAuth] Attempting to log in to Steam
+<2022-06-09 19:34:06.568>: [Info] (AZCore): [SteamAuth] Getting steam auth session ticket.
+<2022-06-09 19:34:07.897>: [Info] (AZCore): [SteamAuth] OnAuthSessionTicket: Authenticating using steam auth session ticket: 5
+<2022-06-09 19:34:07.901>: [Info] (AZCore): [SteamAuth] CreateSteamSessionJob: Calling Persona to create steam session
+<2022-06-09 19:34:08.616>: [Info] (AZCore): [SteamAuth] OnCreatedSessionSteam: Creating session for persona id: amzn1.developerPersonaId.02e9f3b7-55e1-865a-9031-570ce6f27a49.
+<2022-06-09 19:34:08.616>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d1w0bfy6smo4d1.cloudfront.net/prod/credentials
+<2022-06-09 19:34:08.873>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2022-06-09T20:29:08Z
+<2022-06-09 19:34:08.873>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2022-06-09T20:29:08Z
+<2022-06-09 19:34:08.889>: [Info] (AZCore): [Game] CGame::OnCampfireLoginComplete, login successful. ownership=permanent
+<2022-06-09 19:34:08.889>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Signing Host: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<2022-06-09 19:34:08.889>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Address: d1w0bfy6smo4d1.cloudfront.net
+<2022-06-09 19:34:08.889>: [Info] (AZCore): [Game] LogEnvironmentString: HTTP Gateway Address: https://d1w0bfy6smo4d1.cloudfront.net/prod
+<2022-06-09 19:34:08.889>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Mode: gateway
+<2022-06-09 19:34:08.889>: [Info] (AZCore): [GameConnection] ConfigureLogin MODE_GATEWAY: endpoint=d1w0bfy6smo4d1.cloudfront.net, httpEntpoint=https://d1w0bfy6smo4d1.cloudfront.net/prod, region=eu-central-1
+<2022-06-09 19:34:08.893>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-06-09 19:34:08.893>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.ProductId" remote config. S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-06-09 19:34:09.363>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.ProductId" remote config, with S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless" successfully, size: 339
+
+<2022-06-09 19:34:09.370>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/555;1694880"
+<2022-06-09 19:34:09.370>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.ProductIdv" remote config. S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/555;1694880"
+<2022-06-09 19:34:09.476>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: "applications/public/configuration-sets/RegionId/fra-prod/versionless"), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/versionless"
+<2022-06-09 19:34:09.476>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.RegionId" remote config. S3 key: "applications/public/configuration-sets/RegionId/fra-prod/versionless"
+<2022-06-09 19:34:09.589>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.RegionId" remote config, with S3 key: "applications/public/configuration-sets/RegionId/fra-prod/versionless" successfully, size: 246
+
+<2022-06-09 19:34:09.592>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: "applications/public/configuration-sets/RegionId/fra-prod/555;1694880"), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/555;1694880"
+<2022-06-09 19:34:09.592>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.RegionIdv" remote config. S3 key: "applications/public/configuration-sets/RegionId/fra-prod/555;1694880"
+<2022-06-09 19:34:09.706>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-06-09 19:34:09.706>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.ProductId" remote config. S3 key: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2022-06-09 19:34:09.825>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.ProductId" remote config, with S3 key: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless" successfully, size: 736
+
+<2022-06-09 19:34:09.829>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/555;1694880"
+<2022-06-09 19:34:09.829>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.ProductIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/555;1694880"
+<2022-06-09 19:34:09.937>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"
+<2022-06-09 19:34:09.937>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.RegionId" remote config. S3 key: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"
+<2022-06-09 19:34:10.063>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.RegionId" remote config, with S3 key: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless" successfully, size: 137
+
+<2022-06-09 19:34:10.066>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/555;1694880"), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/555;1694880"
+<2022-06-09 19:34:10.066>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.RegionIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/555;1694880"
+<2022-06-09 19:34:10.685>: [Info] (AZCore): [Game] LogEnvironmentString: Persona ID: amzn1.developerPersonaId.02e9f3b7-55e1-865a-9031-570ce6f27a49
+<2022-06-09 19:34:10.998>: [Info]: 
+<2022-06-09 19:34:10.998>: [Info]: Total number of logical processors: 16
+<2022-06-09 19:34:10.998>: [Info]: Number of available logical processors: 16
+<2022-06-09 19:34:10.998>: [Info]: Total number of system cores: 8
+<2022-06-09 19:34:10.999>: [Info]: Number of cores available to process: 8
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 0:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 1:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 2:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 3:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 4:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 5:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 6:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Processor 7:
+<2022-06-09 19:34:10.999>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2022-06-09 19:34:10.999>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2022-06-09 19:34:10.999>: [Info]:   FPU: On-Chip
+<2022-06-09 19:34:10.999>: [Info]:   3DNow!: not present
+<2022-06-09 19:34:10.999>: [Info]:   MMX: not present
+<2022-06-09 19:34:10.999>: [Info]:   SSE: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE2: present
+<2022-06-09 19:34:10.999>: [Info]:   SSE3: present
+<2022-06-09 19:34:10.999>: [Info]:   Serial number not present or disabled
+<2022-06-09 19:34:10.999>: [Info]:  
+<2022-06-09 19:34:10.999>: [Info]: Change detected in analytics configuration. Re-instantiating network traffic reporter
+<2022-06-09 19:34:21.208>: [Info] (AZCore): [Game] CGame::ActorContainerConnect
+<2022-06-09 19:34:21.208>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Disconnect
+<2022-06-09 19:34:21.208>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Connect: playerName = xuppra
+<2022-06-09 19:34:21.208>: [Info] (AZCore): [GameConnection] Update state Disconnected to new state QueueGameLogin
+<2022-06-09 19:34:21.224>: [Info] (AZCore): [GameConnection] Update state QueueGameLogin to new state WaitingForQueuedLogin
+<2022-06-09 19:34:21.224>: [Info] (AZCore): [GameConnection] Queuing login for world () and character (9b7f7427-abde-4ac3-83cd-f10d78f51d29)
+<2022-06-09 19:34:22.808>: [Info] (AZCore): [GameConnection] Received a login ticket: 86ae8332-ed32-420e-985c-61011022847a_6ea2a154-c040-45a2-9b27-1d54013915a3, location: , New Ticket
+<2022-06-09 19:34:25.129>: [Info] (AZCore): [GameConnection] Received a login ticket: 86ae8332-ed32-420e-985c-61011022847a_6ea2a154-c040-45a2-9b27-1d54013915a3, location: , Refreshed Ticket
+<2022-06-09 19:34:25.129>: [Info] (AZCore): [Game] LogEnvironmentString: World ID: 86ae8332-ed32-420e-985c-61011022847a
+<2022-06-09 19:34:25.129>: [Info] (AZCore): [Game] LogEnvironmentString: World Name: live-1-12-2
+<2022-06-09 19:34:25.129>: [Info] (AZCore): [Game] LogEnvironmentString: Character ID: 9b7f7427-abde-4ac3-83cd-f10d78f51d29
+<2022-06-09 19:34:25.129>: [Info] (AZCore): [Game] LogEnvironmentString: REP Address: 35.71.153.244:22262
+<2022-06-09 19:34:25.144>: [Info] (AZCore): [GameConnection] Update state WaitingForQueuedLogin to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:25.148>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2022-06-09 19:34:25.149>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:25.149>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.CognitoId" remote config. S3 key: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2022-06-09 19:34:25.668>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.CognitoId" remote config, with S3 key: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless" successfully, size: 462
+
+<2022-06-09 19:34:25.677>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:25.693>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"
+<2022-06-09 19:34:25.693>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:25.694>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.CognitoIdv" remote config. S3 key: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"
+<2022-06-09 19:34:25.804>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:25.820>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/versionless"
+<2022-06-09 19:34:25.821>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:25.822>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.WorldId" remote config. S3 key: "applications/public/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/versionless"
+<2022-06-09 19:34:25.932>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:25.948>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/555;1694880"
+<2022-06-09 19:34:25.949>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:25.950>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.public.WorldIdv" remote config. S3 key: "applications/public/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/555;1694880"
+<2022-06-09 19:34:26.060>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:26.076>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2022-06-09 19:34:26.076>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:26.077>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.CognitoId" remote config. S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2022-06-09 19:34:26.191>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.CognitoId" remote config, with S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless" successfully, size: 2244
+
+<2022-06-09 19:34:26.204>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:26.220>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"
+<2022-06-09 19:34:26.220>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:26.221>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.CognitoIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/555;1694880"
+<2022-06-09 19:34:26.333>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:26.349>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/versionless"
+<2022-06-09 19:34:26.349>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:26.350>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.WorldId" remote config. S3 key: "applications/publicGameplay/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/versionless"
+<2022-06-09 19:34:26.477>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:26.493>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/555;1694880"
+<2022-06-09 19:34:26.493>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2022-06-09 19:34:26.494>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.WorldIdv" remote config. S3 key: "applications/publicGameplay/configuration-sets/WorldId/86ae8332-ed32-420e-985c-61011022847a/555;1694880"
+<2022-06-09 19:34:26.621>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2022-06-09 19:34:26.637>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state StartREPConnection
+<2022-06-09 19:34:26.653>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: start REP connection RepAddress = 35.71.153.244:22262, worldId = 86ae8332-ed32-420e-985c-61011022847a
+<2022-06-09 19:34:26.655>: [Info] (AZCore): [GameConnection] Update state StartREPConnection to new state WaitingForREPConnection
+<2022-06-09 19:34:26.823>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: REP socket connection established, now waiting to register
+<2022-06-09 19:34:26.881>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: received registration response from REP
+<2022-06-09 19:34:26.881>: [Info] (AZCore): [Game] LogEnvironmentString: Server version: [RELEASE].Javelin.1.18.555.1694880
+<2022-06-09 19:34:26.893>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: start actor game connection
+<2022-06-09 19:34:26.893>: [Info] (AZCore): [GameMessagePort] Reset
+<2022-06-09 19:34:26.893>: [Info] (AZCore): [GameConnection] Update state WaitingForREPConnection to new state WaitingForActorGameConnection
+<2022-06-09 19:34:26.989>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: actor game connection succeeds
+<2022-06-09 19:34:26.989>: [Info] (AZCore): [GameConnection] Initialize current retry count : 0
+<2022-06-09 19:34:26.989>: [Info] (AZCore): [GameConnection] Update state WaitingForActorGameConnection to new state WaitingForSpawnPoint
+<2022-06-09 19:34:27.005>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: spawn point found
+<2022-06-09 19:34:27.005>: [Info] (AZCore): [GameConnection] Update state WaitingForSpawnPoint to new state WaitingForAOIClient
+<2022-06-09 19:34:27.197>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-06-09 19:34:27.197>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged m_clientContextInstanceId 0 changing to levelInfo.m_clientContextInstanceId 1
+<2022-06-09 19:34:27.197>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2022-06-09 19:34:27.197>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2022-06-09 19:34:27.229>: [Info] (AZCore): [GameMessagePort] Calling clientContext->Initialize
+<2022-06-09 19:34:27.229>: [Info] (AZCore): [ClientContext] Initialize()
+<2022-06-09 19:34:27.229>: [Info] (AZCore): [ClientContext] Cleanup()
+<2022-06-09 19:34:29.125>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-06-09 19:34:29.126>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "frontendv2": starting async unload...
+<2022-06-09 19:34:29.129>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2022-06-09 19:34:29.129>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 328, waitingRefs (from bus): 0
+<2022-06-09 19:34:29.129>: [Info] (AZCore): [GameMessagePort] HandleUnexpectedMessage skipping ReceiveStateBundle for bundle message due to clientContext == nullptr
+<2022-06-09 19:34:29.134>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2022-06-09 19:34:29.134>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2022-06-09 19:34:29.134>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2022-06-09 19:34:33.042>: [Info]: CGame::InitCoatlicueTerrain
+<2022-06-09 19:34:33.046>: [Info] (AZCore): [GameMessagePort] ProcessPendingReliableMsgQueue processing 2 messages from m_pendingUnexpectedMsgs
+<2022-06-09 19:34:33.063>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-06-09 19:34:33.592>: [Info] (AZCore): [GDERenderManager] Init()
+<2022-06-09 19:34:33.627>: [Info] (AZCore): [Game] LogEnvironmentString: Player Name: xuppra
+<2022-06-09 19:34:33.627>: [Info] (AZCore): [Game] LogEnvironmentString: Player Actor: AE595B482D0B0A66E58F984433AC4281
+<2022-06-09 19:34:33.654>: [Info]: SerializeOptions: Success
+<2022-06-09 19:34:33.654>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 19:34:33.706>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2022-06-09 19:34:33.706>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2022-06-09 19:34:33.706>: [Info] (AZCore): [Game] JavelinGame::OnConnectionSucceed
+<2022-06-09 19:34:37.394>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-06-09 19:34:45.395>: [Info]: SerializeOptions: Success
+<2022-06-09 19:34:45.395>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 19:45:19.833>: [Info]: SerializeOptions: Success
+<2022-06-09 19:45:19.833>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 19:45:19.964>: [Info]: SerializeOptions: Success
+<2022-06-09 19:45:19.965>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 19:45:27.436>: [Info]: SerializeOptions: Success
+<2022-06-09 19:45:27.436>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 19:45:35.122>: [Info]: SerializeOptions: Success
+<2022-06-09 19:45:35.122>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 19:47:00.874>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 44732 m_lastUnreliableReplicationSeq 44733
+<2022-06-09 20:00:00.562>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 97127 m_lastUnreliableReplicationSeq 97129
+<2022-06-09 20:00:00.562>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 97128 m_lastUnreliableReplicationSeq 97129
+<2022-06-09 20:01:51.790>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 105204 m_lastUnreliableReplicationSeq 105205
+<2022-06-09 20:02:41.764>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 109074 m_lastUnreliableReplicationSeq 109075
+<2022-06-09 20:02:45.335>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 109348 m_lastUnreliableReplicationSeq 109350
+<2022-06-09 20:03:08.085>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 111062 m_lastUnreliableReplicationSeq 111063
+<2022-06-09 20:03:18.836>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 111880 m_lastUnreliableReplicationSeq 111881
+<2022-06-09 20:04:20.009>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 116560 m_lastUnreliableReplicationSeq 116561
+<2022-06-09 20:04:22.691>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 116762 m_lastUnreliableReplicationSeq 116763
+<2022-06-09 20:04:23.247>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 116806 m_lastUnreliableReplicationSeq 116807
+<2022-06-09 20:04:28.322>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 117195 m_lastUnreliableReplicationSeq 117196
+<2022-06-09 20:04:30.861>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 117389 m_lastUnreliableReplicationSeq 117390
+<2022-06-09 20:06:06.768>: [Info]: SerializeOptions: Success
+<2022-06-09 20:06:06.768>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:06:44.554>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 127523 m_lastUnreliableReplicationSeq 127524
+<2022-06-09 20:07:16.020>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 129964 m_lastUnreliableReplicationSeq 129965
+<2022-06-09 20:07:20.132>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 130336 m_lastUnreliableReplicationSeq 130337
+<2022-06-09 20:07:47.034>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 132385 m_lastUnreliableReplicationSeq 132386
+<2022-06-09 20:08:27.373>: [Info]: SerializeOptions: Success
+<2022-06-09 20:08:27.373>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:08:37.384>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 136085 m_lastUnreliableReplicationSeq 136086
+<2022-06-09 20:09:04.172>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 138064 m_lastUnreliableReplicationSeq 138065
+<2022-06-09 20:09:07.426>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 138330 m_lastUnreliableReplicationSeq 138332
+<2022-06-09 20:09:12.087>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 138699 m_lastUnreliableReplicationSeq 138700
+<2022-06-09 20:09:25.815>: [Info]: SerializeOptions: Success
+<2022-06-09 20:09:25.815>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:10:19.598>: [Info]: SerializeOptions: Success
+<2022-06-09 20:10:19.598>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:11:05.093>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 147203 m_lastUnreliableReplicationSeq 147205
+<2022-06-09 20:11:05.093>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 147204 m_lastUnreliableReplicationSeq 147205
+<2022-06-09 20:11:31.140>: [Info]: SerializeOptions: Success
+<2022-06-09 20:11:31.140>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:13:19.771>: [Info]: SerializeOptions: Success
+<2022-06-09 20:13:19.771>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:13:59.833>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 160350 m_lastUnreliableReplicationSeq 160351
+<2022-06-09 20:14:19.839>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 161949 m_lastUnreliableReplicationSeq 161950
+<2022-06-09 20:14:31.904>: [Info]: SerializeOptions: Success
+<2022-06-09 20:14:31.904>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:14:52.740>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 164437 m_lastUnreliableReplicationSeq 164439
+<2022-06-09 20:15:25.723>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 167012 m_lastUnreliableReplicationSeq 167013
+<2022-06-09 20:15:59.588>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 169582 m_lastUnreliableReplicationSeq 169583
+<2022-06-09 20:16:01.499>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 169745 m_lastUnreliableReplicationSeq 169746
+<2022-06-09 20:16:42.962>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 172934 m_lastUnreliableReplicationSeq 172935
+<2022-06-09 20:17:08.688>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 174893 m_lastUnreliableReplicationSeq 174894
+<2022-06-09 20:17:55.684>: [Info]: SerializeOptions: Success
+<2022-06-09 20:17:55.684>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:18:54.363>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 182526 m_lastUnreliableReplicationSeq 182528
+<2022-06-09 20:18:54.363>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 182527 m_lastUnreliableReplicationSeq 182528
+<2022-06-09 20:20:51.689>: [Info]: SerializeOptions: Success
+<2022-06-09 20:20:51.689>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:20:52.617>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 191348 m_lastUnreliableReplicationSeq 191349
+<2022-06-09 20:21:14.073>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 192989 m_lastUnreliableReplicationSeq 192990
+<2022-06-09 20:21:26.323>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 193912 m_lastUnreliableReplicationSeq 193913
+<2022-06-09 20:21:43.791>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 195187 m_lastUnreliableReplicationSeq 195188
+<2022-06-09 20:21:47.174>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 195448 m_lastUnreliableReplicationSeq 195449
+<2022-06-09 20:21:49.485>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 195633 m_lastUnreliableReplicationSeq 195634
+<2022-06-09 20:21:54.436>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 196048 m_lastUnreliableReplicationSeq 196049
+<2022-06-09 20:22:36.299>: [Info]: SerializeOptions: Success
+<2022-06-09 20:22:36.299>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:23:08.866>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 201603 m_lastUnreliableReplicationSeq 201604
+<2022-06-09 20:23:27.525>: [Info]: SerializeOptions: Success
+<2022-06-09 20:23:27.525>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:23:57.327>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 205204 m_lastUnreliableReplicationSeq 205205
+<2022-06-09 20:25:11.229>: [Info]: SerializeOptions: Success
+<2022-06-09 20:25:11.229>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:28:12.109>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 224338 m_lastUnreliableReplicationSeq 224340
+<2022-06-09 20:28:12.109>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 224339 m_lastUnreliableReplicationSeq 224340
+<2022-06-09 20:28:46.679>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 226967 m_lastUnreliableReplicationSeq 226968
+<2022-06-09 20:28:50.565>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 227260 m_lastUnreliableReplicationSeq 227261
+<2022-06-09 20:29:08.061>: [Info] (AZCore): [SteamAuth] Attempting to refresh AWS credentials
+<2022-06-09 20:29:08.061>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d1w0bfy6smo4d1.cloudfront.net/prod/credentials
+<2022-06-09 20:29:08.375>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2022-06-09T21:24:08Z
+<2022-06-09 20:29:08.375>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2022-06-09T21:24:08Z
+<2022-06-09 20:29:08.448>: [Info] (AZCore): [SteamAuth] Successfully updated AWS credentials.
+<2022-06-09 20:29:12.269>: [Info]: SerializeOptions: Success
+<2022-06-09 20:29:12.269>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:29:41.698>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 231051 m_lastUnreliableReplicationSeq 231052
+<2022-06-09 20:29:48.270>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  1 m_clientContextInstanceId 1 seq 231607 m_lastUnreliableReplicationSeq 231608
+<2022-06-09 20:31:14.737>: [Info]: SerializeOptions: Success
+<2022-06-09 20:31:14.737>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:31:22.296>: [Info]: SerializeOptions: Success
+<2022-06-09 20:31:22.297>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 20:33:08.821>: [Info] (AZCore): [StackConfig] Server sends RemoteConfigChanged() for layerId "remoteCfg.publicGameplay.CognitoId"
+<2022-06-09 20:33:08.821>: [Info] (AZCore): [StackConfig] Querying "remoteCfg.publicGameplay.CognitoId" remote config. S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2022-06-09 20:33:09.287>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.CognitoId" remote config, with S3 key: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless" successfully, size: 2298
+
+<2022-06-09 21:08:06.066>: [Info]: SerializeOptions: Success
+<2022-06-09 21:08:06.066>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:08:06.232>: [Info]: SerializeOptions: Success
+<2022-06-09 21:08:06.232>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:08:07.102>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-06-09 21:08:07.102>: [Info] (AZCore): [GameMessagePort] Reset
+<2022-06-09 21:08:07.102>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2022-06-09 21:08:07.102>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged m_clientContextInstanceId 1 changing to levelInfo.m_clientContextInstanceId 2
+<2022-06-09 21:08:07.102>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2022-06-09 21:08:07.102>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2022-06-09 21:08:07.247>: [Info] (AZCore): [GameMessagePort] Calling clientContext->Initialize
+<2022-06-09 21:08:07.247>: [Info] (AZCore): [ClientContext] Initialize()
+<2022-06-09 21:08:07.247>: [Info] (AZCore): [ClientContext] Cleanup()
+<2022-06-09 21:08:07.247>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2022-06-09 21:08:07.293>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 21:08:07.384>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 21:08:10.785>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-06-09 21:08:10.789>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "NewWorld_VitaeEterna": starting async unload...
+<2022-06-09 21:08:10.823>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2022-06-09 21:08:10.823>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 3209, waitingRefs (from bus): 0
+<2022-06-09 21:08:10.823>: [Info] (AZCore): [GameMessagePort] HandleUnexpectedMessage skipping ReceiveStateBundle for bundle message due to clientContext == nullptr
+<2022-06-09 21:08:11.872>: [Info]: SerializeOptions: Success
+<2022-06-09 21:08:11.872>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:08:11.960>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 2, waitingRefs (from bus): 0
+<2022-06-09 21:08:12.055>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 1667, waitingRefs (from bus): 0
+<2022-06-09 21:08:12.172>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 1289, waitingRefs (from bus): 0
+<2022-06-09 21:08:12.230>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2022-06-09 21:08:12.230>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2022-06-09 21:08:12.230>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2022-06-09 21:08:15.606>: [Info]: CGame::InitCoatlicueTerrain
+<2022-06-09 21:08:15.610>: [Info] (AZCore): [GameMessagePort] ProcessPendingReliableMsgQueue processing 1 messages from m_pendingUnexpectedMsgs
+<2022-06-09 21:08:16.010>: [Info] (AZCore): [GDERenderManager] Init()
+<2022-06-09 21:08:19.511>: [Info]: SerializeOptions: Success
+<2022-06-09 21:08:19.511>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:08:19.781>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2022-06-09 21:08:19.781>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2022-06-09 21:08:19.781>: [Info] (AZCore): [Game] JavelinGame::OnConnectionSucceed
+<2022-06-09 21:08:26.715>: [Info]: SerializeOptions: Success
+<2022-06-09 21:08:26.715>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:11:38.713>: [Info]: SerializeOptions: Success
+<2022-06-09 21:11:38.713>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:13:28.322>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  2 m_clientContextInstanceId 2 seq 19009 m_lastUnreliableReplicationSeq 19010
+<2022-06-09 21:17:04.588>: [Info]: SerializeOptions: Success
+<2022-06-09 21:17:04.588>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:21:20.699>: [Info]: SerializeOptions: Success
+<2022-06-09 21:21:20.699>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:23:10.590>: [Info]: SerializeOptions: Success
+<2022-06-09 21:23:10.590>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:24:08.011>: [Info] (AZCore): [SteamAuth] Attempting to refresh AWS credentials
+<2022-06-09 21:24:08.011>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d1w0bfy6smo4d1.cloudfront.net/prod/credentials
+<2022-06-09 21:24:08.275>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2022-06-09T22:19:08Z
+<2022-06-09 21:24:08.275>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2022-06-09T22:19:08Z
+<2022-06-09 21:24:08.293>: [Info] (AZCore): [SteamAuth] Successfully updated AWS credentials.
+<2022-06-09 21:28:15.730>: [Info]: SerializeOptions: Success
+<2022-06-09 21:28:15.730>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:28:16.240>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  2 m_clientContextInstanceId 2 seq 77447 m_lastUnreliableReplicationSeq 77449
+<2022-06-09 21:28:16.240>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  2 m_clientContextInstanceId 2 seq 77448 m_lastUnreliableReplicationSeq 77449
+<2022-06-09 21:32:56.884>: [Info]: SerializeOptions: Success
+<2022-06-09 21:32:56.884>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:34:33.567>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  2 m_clientContextInstanceId 2 seq 102466 m_lastUnreliableReplicationSeq 102467
+<2022-06-09 21:40:31.939>: [Info]: SerializeOptions: Success
+<2022-06-09 21:40:31.939>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:40:39.400>: [Info]: SerializeOptions: Success
+<2022-06-09 21:40:39.400>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:42:00.764>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  2 m_clientContextInstanceId 2 seq 131344 m_lastUnreliableReplicationSeq 131345
+<2022-06-09 21:42:52.508>: [Info]: SerializeOptions: Success
+<2022-06-09 21:42:52.509>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:42:53.141>: [Info]: SerializeOptions: Success
+<2022-06-09 21:42:53.141>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:42:53.176>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-06-09 21:42:53.176>: [Info] (AZCore): [GameMessagePort] Reset
+<2022-06-09 21:42:53.176>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2022-06-09 21:42:53.176>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged m_clientContextInstanceId 2 changing to levelInfo.m_clientContextInstanceId 3
+<2022-06-09 21:42:53.208>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2022-06-09 21:42:53.208>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2022-06-09 21:42:53.337>: [Info] (AZCore): [GameMessagePort] Calling clientContext->Initialize
+<2022-06-09 21:42:53.337>: [Info] (AZCore): [ClientContext] Initialize()
+<2022-06-09 21:42:53.337>: [Info] (AZCore): [ClientContext] Cleanup()
+<2022-06-09 21:42:53.337>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2022-06-09 21:42:53.360>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 21:42:53.398>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 21:42:55.783>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-06-09 21:42:55.784>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "NewWorld_VitaeEterna": starting async unload...
+<2022-06-09 21:42:55.790>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2022-06-09 21:42:55.790>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 1763, waitingRefs (from bus): 0
+<2022-06-09 21:42:55.790>: [Info] (AZCore): [GameMessagePort] HandleUnexpectedMessage skipping ReceiveStateBundle for bundle message due to clientContext == nullptr
+<2022-06-09 21:42:56.843>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2022-06-09 21:42:56.843>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2022-06-09 21:42:56.843>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2022-06-09 21:42:59.986>: [Info]: CGame::InitCoatlicueTerrain
+<2022-06-09 21:42:59.990>: [Info] (AZCore): [GameMessagePort] ProcessPendingReliableMsgQueue processing 30 messages from m_pendingUnexpectedMsgs
+<2022-06-09 21:43:00.456>: [Info] (AZCore): [GDERenderManager] Init()
+<2022-06-09 21:43:03.975>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2022-06-09 21:43:03.975>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2022-06-09 21:43:03.975>: [Info] (AZCore): [Game] JavelinGame::OnConnectionSucceed
+<2022-06-09 21:43:09.940>: [Info]: SerializeOptions: Success
+<2022-06-09 21:43:09.940>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:45:13.499>: [Info]: SerializeOptions: Success
+<2022-06-09 21:45:13.499>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:45:13.773>: [Info]: SerializeOptions: Success
+<2022-06-09 21:45:13.773>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:45:14.198>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-06-09 21:45:14.198>: [Info] (AZCore): [GameMessagePort] Reset
+<2022-06-09 21:45:14.198>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2022-06-09 21:45:14.198>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged m_clientContextInstanceId 3 changing to levelInfo.m_clientContextInstanceId 4
+<2022-06-09 21:45:14.198>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2022-06-09 21:45:14.198>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2022-06-09 21:45:14.342>: [Info] (AZCore): [GameMessagePort] Calling clientContext->Initialize
+<2022-06-09 21:45:14.342>: [Info] (AZCore): [ClientContext] Initialize()
+<2022-06-09 21:45:14.342>: [Info] (AZCore): [ClientContext] Cleanup()
+<2022-06-09 21:45:14.342>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2022-06-09 21:45:14.362>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 21:45:14.390>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 21:45:17.016>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-06-09 21:45:17.017>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "NewWorld_VitaeEterna": starting async unload...
+<2022-06-09 21:45:17.022>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2022-06-09 21:45:17.022>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 2621, waitingRefs (from bus): 0
+<2022-06-09 21:45:17.022>: [Info] (AZCore): [GameMessagePort] HandleUnexpectedMessage skipping ReceiveStateBundle for bundle message due to clientContext == nullptr
+<2022-06-09 21:45:18.015>: [Info]: SerializeOptions: Success
+<2022-06-09 21:45:18.015>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:45:18.084>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 3, waitingRefs (from bus): 0
+<2022-06-09 21:45:18.135>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 1279, waitingRefs (from bus): 0
+<2022-06-09 21:45:18.213>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 1282, waitingRefs (from bus): 0
+<2022-06-09 21:45:18.266>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2022-06-09 21:45:18.266>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2022-06-09 21:45:18.266>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2022-06-09 21:45:21.036>: [Info]: CGame::InitCoatlicueTerrain
+<2022-06-09 21:45:21.039>: [Info] (AZCore): [GameMessagePort] ProcessPendingReliableMsgQueue processing 7 messages from m_pendingUnexpectedMsgs
+<2022-06-09 21:45:21.381>: [Info] (AZCore): [GDERenderManager] Init()
+<2022-06-09 21:45:24.115>: [Info]: SerializeOptions: Success
+<2022-06-09 21:45:24.115>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:45:25.165>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2022-06-09 21:45:25.165>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2022-06-09 21:45:25.165>: [Info] (AZCore): [Game] JavelinGame::OnConnectionSucceed
+<2022-06-09 21:45:32.120>: [Info]: SerializeOptions: Success
+<2022-06-09 21:45:32.120>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:48:05.933>: [Info]: SerializeOptions: Success
+<2022-06-09 21:48:05.933>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:49:56.116>: [Info]: SerializeOptions: Success
+<2022-06-09 21:49:56.116>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 21:53:14.789>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  4 m_clientContextInstanceId 4 seq 32849 m_lastUnreliableReplicationSeq 32850
+<2022-06-09 21:56:51.815>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  4 m_clientContextInstanceId 4 seq 48365 m_lastUnreliableReplicationSeq 48367
+<2022-06-09 21:56:51.815>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  4 m_clientContextInstanceId 4 seq 48366 m_lastUnreliableReplicationSeq 48367
+<2022-06-09 22:01:37.333>: [Info]: SerializeOptions: Success
+<2022-06-09 22:01:37.333>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:01:44.810>: [Info]: SerializeOptions: Success
+<2022-06-09 22:01:44.810>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:02:05.945>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  4 m_clientContextInstanceId 4 seq 70060 m_lastUnreliableReplicationSeq 70061
+<2022-06-09 22:06:38.455>: [Info] (AZCore): [GameMessagePort] MayHandleReplicationUnreliable() returning false clientContextInstanceId  4 m_clientContextInstanceId 4 seq 89235 m_lastUnreliableReplicationSeq 89236
+<2022-06-09 22:07:45.447>: [Info]: SerializeOptions: Success
+<2022-06-09 22:07:45.447>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:11:16.021>: [Info]: SerializeOptions: Success
+<2022-06-09 22:11:16.021>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:11:16.652>: [Info]: SerializeOptions: Success
+<2022-06-09 22:11:16.652>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:11:16.670>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged
+<2022-06-09 22:11:16.670>: [Info] (AZCore): [GameMessagePort] Reset
+<2022-06-09 22:11:16.670>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2022-06-09 22:11:16.670>: [Info] (AZCore): [GameMessagePort] LevelInfoChanged m_clientContextInstanceId 4 changing to levelInfo.m_clientContextInstanceId 5
+<2022-06-09 22:11:16.670>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2022-06-09 22:11:16.670>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2022-06-09 22:11:16.826>: [Info] (AZCore): [GameMessagePort] Calling clientContext->Initialize
+<2022-06-09 22:11:16.826>: [Info] (AZCore): [ClientContext] Initialize()
+<2022-06-09 22:11:16.826>: [Info] (AZCore): [ClientContext] Cleanup()
+<2022-06-09 22:11:16.826>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2022-06-09 22:11:16.850>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 22:11:16.876>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2022-06-09 22:11:19.280>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2022-06-09 22:11:19.281>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "NewWorld_VitaeEterna": starting async unload...
+<2022-06-09 22:11:19.287>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2022-06-09 22:11:19.287>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 1707, waitingRefs (from bus): 0
+<2022-06-09 22:11:19.287>: [Info] (AZCore): [GameMessagePort] HandleUnexpectedMessage skipping ReceiveStateBundle for bundle message due to clientContext == nullptr
+<2022-06-09 22:11:20.313>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2022-06-09 22:11:20.313>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2022-06-09 22:11:20.313>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2022-06-09 22:11:23.146>: [Info]: CGame::InitCoatlicueTerrain
+<2022-06-09 22:11:23.150>: [Info] (AZCore): [GameMessagePort] ProcessPendingReliableMsgQueue processing 47 messages from m_pendingUnexpectedMsgs
+<2022-06-09 22:11:23.685>: [Info] (AZCore): [GDERenderManager] Init()
+<2022-06-09 22:11:26.517>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2022-06-09 22:11:26.517>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2022-06-09 22:11:26.517>: [Info] (AZCore): [Game] JavelinGame::OnConnectionSucceed
+<2022-06-09 22:11:32.960>: [Info]: SerializeOptions: Success
+<2022-06-09 22:11:32.960>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:17:09.750>: [Info]: SerializeOptions: Success
+<2022-06-09 22:17:09.750>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:17:17.437>: [Info]: SerializeOptions: Success
+<2022-06-09 22:17:17.437>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:19:08.007>: [Info] (AZCore): [SteamAuth] Attempting to refresh AWS credentials
+<2022-06-09 22:19:08.007>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d1w0bfy6smo4d1.cloudfront.net/prod/credentials
+<2022-06-09 22:19:08.275>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2022-06-09T23:14:08Z
+<2022-06-09 22:19:08.275>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2022-06-09T23:14:08Z
+<2022-06-09 22:19:08.300>: [Info] (AZCore): [SteamAuth] Successfully updated AWS credentials.
+<2022-06-09 22:19:40.462>: [Info]: SerializeOptions: Success
+<2022-06-09 22:19:40.463>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:19:47.962>: [Info]: SerializeOptions: Success
+<2022-06-09 22:19:47.962>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:22:44.825>: [Info]: SerializeOptions: Success
+<2022-06-09 22:22:44.825>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:22:52.311>: [Info]: SerializeOptions: Success
+<2022-06-09 22:22:52.311>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:23:43.920>: [Info]: SerializeOptions: Success
+<2022-06-09 22:23:43.920>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:26:19.777>: [Info]: SerializeOptions: Success
+<2022-06-09 22:26:19.777>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:26:27.402>: [Info]: SerializeOptions: Success
+<2022-06-09 22:26:27.402>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2022-06-09 22:30:46.203>: [Info] (AZCore): [SteamAuth] EndSessionJob: Calling Persona to end session
+<2022-06-09 22:30:46.684>: [Info] (AZCore): [SteamAuth] Persona EndSession called successfully
+<2022-06-09 22:30:46.684>: [Info] (AZCore): [Game] CGame::ActorContainerDisconnect
+<2022-06-09 22:30:46.684>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Disconnect
+<2022-06-09 22:30:46.684>: [Info] (AZCore): [Game] CGame::OnDisconnection: Disconnected from REP
+<2022-06-09 22:30:46.699>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: disconnected from REP
+<2022-06-09 22:30:46.712>: [Info]: [ERROR] ClientSDK: @mm_csdkerr_disconnect
+<2022-06-09 22:30:47.824>: [Info] (AZCore): [GameConnection] Update state InGame to new state Disconnected
+<2022-06-09 22:30:47.824>: [Info]: CSystem::Quit invoked from thread 12944 (main is 12944)
+<2022-06-09 22:30:47.824>: [Info] (AZCore): [Game] CGame::ActorContainerDisconnect
