@@ -1,0 +1,1235 @@
+<2021-10-04 11:23:55.391>: [Info]: BackupNameAttachment=" Build(1436282) 04 Oct 21 (13 23 55)"  -- used by backup system
+
+<2021-10-04 11:23:55.391>: [Info]: Log Started at local time Mon Oct  4 13:23:55 2021
+<2021-10-04 11:23:55.391>: [Info]: Built on Wed Sep 29 05:36:35 2021
+
+<2021-10-04 11:23:55.391>: [Info]: Running 64 bit Windows version
+<2021-10-04 11:23:55.391>: [Info]: Executable: NewWorld.exe [AZ_RETAIL_CONFIG]
+<2021-10-04 11:23:55.391>: [Info]: FileVersion: 1.9.220.1436282
+<2021-10-04 11:23:55.391>: [Info]: ProductVersion: 1.9.220.1436282
+<2021-10-04 11:23:55.391>: [Info]: Using Microsoft (tm) C++ Standard Library implementation
+
+<2021-10-04 11:23:55.393>: [Info] (AZCore): [System] Loading system configuration from system_windows_pc.cfg...
+<2021-10-04 11:23:55.393>: [Info] (AZCore): [System] GameDir: Assets
+
+<2021-10-04 11:23:56.253>: [Info]: 
+<2021-10-04 11:23:56.254>: [Info]: Total number of logical processors: 16
+<2021-10-04 11:23:56.254>: [Info]: Number of available logical processors: 16
+<2021-10-04 11:23:56.254>: [Info]: Total number of system cores: 8
+<2021-10-04 11:23:56.254>: [Info]: Number of cores available to process: 8
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 0:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 1:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 2:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 3:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 4:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 5:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 6:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Processor 7:
+<2021-10-04 11:23:56.254>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:23:56.254>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:23:56.254>: [Info]:   FPU: On-Chip
+<2021-10-04 11:23:56.254>: [Info]:   3DNow!: not present
+<2021-10-04 11:23:56.254>: [Info]:   MMX: not present
+<2021-10-04 11:23:56.254>: [Info]:   SSE: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE2: present
+<2021-10-04 11:23:56.254>: [Info]:   SSE3: present
+<2021-10-04 11:23:56.254>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:23:56.254>: [Info]:  
+<2021-10-04 11:23:56.254>: [Info]: Windows 10 64 bit (build 10.0.19041)
+<2021-10-04 11:23:56.254>: [Info]: System language: French
+<2021-10-04 11:23:56.254>: [Info]: Windows Directory: "C:\WINDOWS"
+<2021-10-04 11:23:56.254>: [Info]: Local time is 13:23:56 10/04/21, system running for 1544 minutes
+<2021-10-04 11:23:56.254>: [Info]: 16316MB physical memory installed, 9956MB available, 134217727MB virtual memory installed, 38 percent of memory in use
+<2021-10-04 11:23:56.255>: [Info]: PageFile usage: 145MB, Working Set: 197MB, Peak PageFile usage: 325MB,
+<2021-10-04 11:23:56.256>: [Info]: Current display mode is 78043832, (Unknown graphics card)
+<2021-10-04 11:23:56.256>: [Info]: IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<2021-10-04 11:23:56.256>: [Info]: --------------------------------------------------------------------------------
+<2021-10-04 11:23:56.259>: [Info] (AZCore): [System] Stream Engine Initialization
+<2021-10-04 11:23:56.260>: [Info]: GameName: New World
+<2021-10-04 11:23:56.260>: [Info]: BuildTime: Wed Sep 29 05:36:35 2021
+
+<2021-10-04 11:23:56.260>: [Info] (AZCore): [System] Physics initialization
+<2021-10-04 11:23:56.260>: [Info] (AZCore): [System] Renderer initialization
+<2021-10-04 11:23:56.264>: [Info]: Logging video adapters:
+<2021-10-04 11:23:57.341>: [Info]: - Radeon RX 580 Series (vendor = 0x1002, device = 0x67df)
+<2021-10-04 11:23:57.341>: [Info]:   - Adapter index: 0
+<2021-10-04 11:23:57.341>: [Info]:   - Dedicated video memory: 8171 MB
+<2021-10-04 11:23:57.341>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-10-04 11:23:57.341>: [Info]:   - Displays connected: yes
+<2021-10-04 11:23:57.341>: [Info]:   - Suitable rendering device: yes
+<2021-10-04 11:23:57.777>: [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<2021-10-04 11:23:57.777>: [Info]:   - Adapter index: 1
+<2021-10-04 11:23:57.777>: [Info]:   - Dedicated video memory: 0 MB
+<2021-10-04 11:23:57.777>: [Info]:   - Feature level: DX11 (SM 5.0)
+<2021-10-04 11:23:57.777>: [Info]:   - Displays connected: no
+<2021-10-04 11:23:57.777>: [Info]:   - Suitable rendering device: no
+<2021-10-04 11:23:59.586>: [Info]: Active GPUs: 1
+<2021-10-04 11:24:01.292>: [Info] (AZCore): [Audio] AudioSystem initialized in High Ram mode. Available RAM [16315]MB, LowRam cutoff is [9216]MB
+<2021-10-04 11:24:03.291>: [Info] (AZCore): [System] Font initialization
+<2021-10-04 11:24:03.291>: [Info]: Using FreeType 2.5.0
+<2021-10-04 11:24:25.960>: [Info] (AZCore): [System] Time initialization
+<2021-10-04 11:24:25.960>: [Info] (AZCore): [System] Input initialization
+<2021-10-04 11:24:25.961>: [Info] (AZCore): [System] UI system initialization
+<2021-10-04 11:24:25.961>: [Info] (AZCore): [System] Initializing Animation System
+<2021-10-04 11:24:25.961>: [Info] (AZCore): [System] Initializing 3D Engine
+<2021-10-04 11:24:25.963>: [Info]: Sky light: Optical lookup tables loaded off disc.
+<2021-10-04 11:24:25.964>: [Info] (AZCore): [System] Script System Initialization
+<2021-10-04 11:24:25.964>: [Info] (AZCore): [System] Entity system initialization
+<2021-10-04 11:24:25.967>: [Info] (AZCore): [System] Initializing additional systems
+<2021-10-04 11:24:25.967>: [Info] (AZCore): [System] Dynamic Response System initialization
+<2021-10-04 11:24:25.967>: [Info] (AZCore): [System] No Dynamic Response System was loaded from a module, the system will use the NULL DynamicResponseSystem.
+<2021-10-04 11:24:25.968>: [Info]: LmbrAWS system initialization
+<2021-10-04 11:24:25.968>: [Info]: Running machine spec auto detect (64 bit)...
+<2021-10-04 11:24:25.968>: [Info]: - Windows 10 64 bit (build 10.0.19041)
+<2021-10-04 11:24:25.968>: [Info]: - System memory
+<2021-10-04 11:24:25.968>: [Info]: --- 16315 MB
+<2021-10-04 11:24:25.968>: [Info]: - Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:25.968>: [Info]: --- Number of available cores: 8 (out of 8)
+<2021-10-04 11:24:25.968>: [Info]: --- Number of logical processors: 16
+<2021-10-04 11:24:26.372>: [Info]: - Radeon RX 580 Series (vendor = 0x1002, device = 0x67df)
+<2021-10-04 11:24:26.372>: [Info]: --- Dedicated video memory: 8171 MB
+<2021-10-04 11:24:26.372>: [Info]: --- Feature level: DX11 (SM 5.0)
+<2021-10-04 11:24:26.374>: [Info]: - Final rating: Machine class 2
+<2021-10-04 11:24:33.031>: [Info] (AZCore): [System] == Version Info ===============================================================
+
+<2021-10-04 11:24:33.031>: [Info] (AZCore): [System] [RETAIL].Javelin.1.9.220.1436282
+
+<2021-10-04 11:24:33.031>: [Info] (AZCore): [System] ===============================================================================
+
+<2021-10-04 11:24:33.046>: [Info]: Client config override file not found: @assets@/ClientOverride.json
+<2021-10-04 11:24:35.070>: [Info] (AZCore): [Game] Steam Initialized!
+<2021-10-04 11:24:35.070>: [Info] (AZCore): [Game] Using remote config: true
+<2021-10-04 11:24:35.070>: [Info] (AZCore): [Game] Steam Utils obtained? true
+<2021-10-04 11:24:35.070>: [Info] (AZCore): [Game] Using Steam App ID: 1063730
+<2021-10-04 11:24:35.071>: [Info]: Channel service uri: https://d2c74t4zimux3r.cloudfront.net/STEAM_APP_ID.1063730.json
+<2021-10-04 11:24:35.712>: [Info]: Channel name: Retail
+<2021-10-04 11:24:35.712>: [Info]: Found cluster data for cluster id: fra-prod
+<2021-10-04 11:24:35.712>: [Info]: Display Name: EU Central
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack: https://2mfrik7h83.execute-api.us-east-1.amazonaws.com/Prod
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack Region: us-east-1
+<2021-10-04 11:24:35.712>: [Info]: Gateway Host: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack: d1w0bfy6smo4d1.cloudfront.net
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack Region: eu-central-1
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack: https://d1w0bfy6smo4d1.cloudfront.net/prod
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack Region: eu-central-1
+<2021-10-04 11:24:35.712>: [Info]: Found cluster data for cluster id: gru-prod
+<2021-10-04 11:24:35.712>: [Info]: Display Name: SA East
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack: https://kqqt5twsi7.execute-api.us-east-1.amazonaws.com/Prod
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack Region: us-east-1
+<2021-10-04 11:24:35.712>: [Info]: Gateway Host: j4n6whncmi.execute-api.sa-east-1.amazonaws.com
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack: d1cjlmzk0xrm0z.cloudfront.net
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack Region: sa-east-1
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack: https://d1cjlmzk0xrm0z.cloudfront.net/prod
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack Region: sa-east-1
+<2021-10-04 11:24:35.712>: [Info]: Found cluster data for cluster id: iad-prod
+<2021-10-04 11:24:35.712>: [Info]: Display Name: US East
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack: https://eudbjx6mig.execute-api.us-east-1.amazonaws.com/Prod
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack Region: us-east-1
+<2021-10-04 11:24:35.712>: [Info]: Gateway Host: 0prplal5u1.execute-api.us-east-1.amazonaws.com
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack: d2oeuvxi3kfsrw.cloudfront.net
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack Region: us-east-1
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack: https://d2oeuvxi3kfsrw.cloudfront.net/prod
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack Region: us-east-1
+<2021-10-04 11:24:35.712>: [Info]: Found cluster data for cluster id: pdx-prod
+<2021-10-04 11:24:35.712>: [Info]: Display Name: US West
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack: https://q8hqllbg6k.execute-api.us-east-1.amazonaws.com/Prod
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack Region: us-east-1
+<2021-10-04 11:24:35.712>: [Info]: Gateway Host: v7irlu1nrl.execute-api.us-west-2.amazonaws.com
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack: d3bj4csovi1fe8.cloudfront.net
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack Region: us-west-2
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack: https://d3bj4csovi1fe8.cloudfront.net/prod
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack Region: us-west-2
+<2021-10-04 11:24:35.712>: [Info]: Found platform metadata for key: ENTITLEMENTS.STEAM_APP_ID.1063730
+<2021-10-04 11:24:35.712>: [Info]: Found platform metadata for key: PERSONA.STEAM_APP_ID.1063730
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: fra-prod - arn:aws:iam::093607389475:role/AgsLiveResources-AllowPersonaAccessRole-1U24RJQDKWS63
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: fra-qa - arn:aws:iam::544220128841:role/AgsLiveResources-AllowPersonaAccessRole-PSN32B5D8G0L
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: fra-staging - arn:aws:iam::411585047658:role/AgsLiveResources-AllowPersonaAccessRole-709I6ZY9EAFH
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: gru-prod - arn:aws:iam::845253724667:role/AgsLiveResources-AllowPersonaAccessRole-SLHVYULH7U5
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: iad-prod - arn:aws:iam::819349112573:role/AgsLiveResources-AllowPersonaAccessRole-1PHH0BI346X75
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: iad-staging - arn:aws:iam::910532829260:role/AgsLiveResources-AllowPersonaAccessRole-OXG60NCUXR74
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: pdx-devo - arn:aws:iam::166847089677:role/AgsLiveResources-AllowPersonaAccessRole-15NKM8MRPA2BX
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: pdx-prod - arn:aws:iam::458929010575:role/AgsLiveResources-AllowPersonaAccessRole-QYL4I8P12BEA
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: pdx-qa - arn:aws:iam::379061375310:role/AgsLiveResources-AllowPersonaAccessRole-116SW3GWSL7P1
+<2021-10-04 11:24:35.712>: [Info]: Found persona role for cluster id: syd-prod - arn:aws:iam::018141801470:role/AgsLiveResources-AllowPersonaAccessRole-1CPZ9EG8SYMOQ
+<2021-10-04 11:24:35.712>: [Info]: Found cluster data for cluster id: syd-prod
+<2021-10-04 11:24:35.712>: [Info]: Display Name: AP Southeast
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack: https://hhf8nn71vb.execute-api.us-east-1.amazonaws.com/Prod
+<2021-10-04 11:24:35.712>: [Info]: Auth Stack Region: us-east-1
+<2021-10-04 11:24:35.712>: [Info]: Gateway Host: ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack: de4mfzk9wkelz.cloudfront.net
+<2021-10-04 11:24:35.712>: [Info]: Gateway Stack Region: ap-southeast-2
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack: https://de4mfzk9wkelz.cloudfront.net/prod
+<2021-10-04 11:24:35.712>: [Info]: Http Gateway Stack Region: ap-southeast-2
+<2021-10-04 11:24:40.713>: [Info]: Failure in initializing Fuel::Iap::IapClient: 14
+<2021-10-04 11:24:40.714>: [Info] (AZCore): [Game] LogEnvironmentString: ProductId: STEAM_APP_ID.1063730
+<2021-10-04 11:24:40.715>: [Info] (AZCore): [Game] LogEnvironmentString: ClusterId: fra-prod
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/versionless"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/220;1436282"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/220;1436282"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/220;1436282"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/220;1436282"
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [AuthManager] Initializing Steam Auth Manager.
+<2021-10-04 11:24:40.719>: [Info] (AZCore): [SteamAuth] Initializing Persona.
+<2021-10-04 11:24:40.758>: [Info]: [EasyAntiCheat] Initializing EAC game client module...
+<2021-10-04 11:24:40.794>: [Info]: [EasyAntiCheat] ...EAC game client module initialized successfully.
+<2021-10-04 11:24:41.897>: [Info]: Initializing default materials...
+<2021-10-04 11:24:42.468>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2021-10-04 11:24:42.468>: [Info] (AZCore): [AsyncMapUnload] No previous level to unload, so not starting async.  Just loading this map now: ("frontendv2")
+<2021-10-04 11:24:42.468>: [Info]: ============================ Loading level frontendv2 ============================
+<2021-10-04 11:24:48.603>: [Info]: CryAnimation: character-definition not found: objects/characters/player/male/feminineShamanMT5/female_feminineShamanMT5.cdf
+<2021-10-04 11:24:48.692>: [Info]: CryAnimation: character-definition not found: objects/characters/player/male/feminineRangerT2/female_feminineRangerT2.cdf
+<2021-10-04 11:24:48.776>: [Info]: CryAnimation: character-definition not found: objects/characters/player/male/feminineRegalT2/female_feminineRegalT2.cdf
+<2021-10-04 11:24:48.831>: [Info]: CGame::InitCoatlicueTerrain
+<2021-10-04 11:24:48.855>: [Info] (AZCore): [Game] 0x441F4C03(user) attempting sign-in.
+<2021-10-04 11:24:48.855>: [Info] (AZCore): [Game] LogEnvironmentString: Auth Mode: user
+<2021-10-04 11:24:48.855>: [Info] (AZCore): [SteamAuth] Attempting to log in to Steam
+<2021-10-04 11:24:48.855>: [Info] (AZCore): [SteamAuth] Getting steam auth session ticket.
+<2021-10-04 11:24:49.299>: [Info] (AZCore): [SteamAuth] OnAuthSessionTicket: Authenticating using steam auth session ticket: 3
+<2021-10-04 11:24:49.307>: [Info] (AZCore): [SteamAuth] CreateSteamSessionJob: Calling Persona to create steam session
+<2021-10-04 11:24:50.137>: [Info] (AZCore): [SteamAuth] OnCreatedSessionSteam: Creating session for persona id: amzn1.developerPersonaId.02e9f3b7-55e1-865a-9031-570ce6f27a49.
+<2021-10-04 11:24:50.137>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d1w0bfy6smo4d1.cloudfront.net/prod/credentials
+<2021-10-04 11:24:50.378>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2021-10-04T12:19:48Z
+<2021-10-04 11:24:50.378>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2021-10-04T12:19:48Z
+<2021-10-04 11:24:50.422>: [Info] (AZCore): [Game] CGame::OnCampfireLoginComplete, login successful.
+<2021-10-04 11:24:50.422>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Signing Host: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<2021-10-04 11:24:50.422>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Address: d1w0bfy6smo4d1.cloudfront.net
+<2021-10-04 11:24:50.422>: [Info] (AZCore): [Game] LogEnvironmentString: HTTP Gateway Address: https://d1w0bfy6smo4d1.cloudfront.net/prod
+<2021-10-04 11:24:50.422>: [Info] (AZCore): [Game] LogEnvironmentString: Gateway Mode: gateway
+<2021-10-04 11:24:50.422>: [Info] (AZCore): [GameConnection] ConfigureLogin MODE_GATEWAY: endpoint=d1w0bfy6smo4d1.cloudfront.net, httpEntpoint=https://d1w0bfy6smo4d1.cloudfront.net/prod, region=eu-central-1
+<2021-10-04 11:24:50.429>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2021-10-04 11:24:50.905>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.ProductId" blocking remote config, with S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless" successfully, size: 328
+
+<2021-10-04 11:24:50.909>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1063730/220;1436282"
+<2021-10-04 11:24:51.018>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: "applications/public/configuration-sets/RegionId/fra-prod/versionless"), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/versionless"
+<2021-10-04 11:24:51.126>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.RegionId" blocking remote config, with S3 key: "applications/public/configuration-sets/RegionId/fra-prod/versionless" successfully, size: 246
+
+<2021-10-04 11:24:51.130>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: "applications/public/configuration-sets/RegionId/fra-prod/220;1436282"), reset to new value: "applications/public/configuration-sets/RegionId/fra-prod/220;1436282"
+<2021-10-04 11:24:51.242>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/versionless"
+<2021-10-04 11:24:51.361>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1063730/220;1436282"
+<2021-10-04 11:24:51.476>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless"
+<2021-10-04 11:24:51.581>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.publicGameplay.RegionId" blocking remote config, with S3 key: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/versionless" successfully, size: 71
+
+<2021-10-04 11:24:51.597>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/220;1436282"), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/fra-prod/220;1436282"
+<2021-10-04 11:24:52.247>: [Info] (AZCore): [Game] LogEnvironmentString: Persona ID: amzn1.developerPersonaId.02e9f3b7-55e1-865a-9031-570ce6f27a49
+<2021-10-04 11:24:52.638>: [Info]: 
+<2021-10-04 11:24:52.640>: [Info]: Total number of logical processors: 16
+<2021-10-04 11:24:52.640>: [Info]: Number of available logical processors: 16
+<2021-10-04 11:24:52.640>: [Info]: Total number of system cores: 8
+<2021-10-04 11:24:52.640>: [Info]: Number of cores available to process: 8
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 0:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 1:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 2:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 3:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 4:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 5:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 6:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Processor 7:
+<2021-10-04 11:24:52.640>: [Info]:   CPU: Intel        Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz
+<2021-10-04 11:24:52.640>: [Info]:   Family: 6, Model: 13, Stepping: 7
+<2021-10-04 11:24:52.640>: [Info]:   FPU: On-Chip
+<2021-10-04 11:24:52.640>: [Info]:   3DNow!: not present
+<2021-10-04 11:24:52.640>: [Info]:   MMX: not present
+<2021-10-04 11:24:52.640>: [Info]:   SSE: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE2: present
+<2021-10-04 11:24:52.640>: [Info]:   SSE3: present
+<2021-10-04 11:24:52.640>: [Info]:   Serial number not present or disabled
+<2021-10-04 11:24:52.640>: [Info]:  
+<2021-10-04 11:24:52.640>: [Info]: Change detected in analytics configuration. Re-instantiating network traffic reporter
+<2021-10-04 11:25:09.286>: [Info] (AZCore): [Game] CGame::ActorContainerConnect
+<2021-10-04 11:25:09.286>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Disconnect
+<2021-10-04 11:25:09.286>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Connect: playerName = xuppra
+<2021-10-04 11:25:09.286>: [Info] (AZCore): [GameConnection] Update state Disconnected to new state QueueGameLogin
+<2021-10-04 11:25:09.304>: [Info] (AZCore): [GameConnection] Update state QueueGameLogin to new state WaitingForQueuedLogin
+<2021-10-04 11:25:09.304>: [Info] (AZCore): [GameConnection] Queuing login for world () and character (9b7f7427-abde-4ac3-83cd-f10d78f51d29)
+<2021-10-04 11:25:10.145>: [Info] (AZCore): [GameConnection] Received a login ticket: 2b983e13-7801-4ab8-9475-ce33a18d9e9b_50ec9ca8-70e4-43af-bd57-f0e6faabbb10, location: , New Ticket
+<2021-10-04 11:25:12.375>: [Info] (AZCore): [GameConnection] Received a login ticket: 2b983e13-7801-4ab8-9475-ce33a18d9e9b_50ec9ca8-70e4-43af-bd57-f0e6faabbb10, location: , Refreshed Ticket
+<2021-10-04 11:25:12.375>: [Info] (AZCore): [Game] LogEnvironmentString: World ID: 2b983e13-7801-4ab8-9475-ce33a18d9e9b
+<2021-10-04 11:25:12.375>: [Info] (AZCore): [Game] LogEnvironmentString: World Name: live-1-12-6
+<2021-10-04 11:25:12.375>: [Info] (AZCore): [Game] LogEnvironmentString: Character ID: 9b7f7427-abde-4ac3-83cd-f10d78f51d29
+<2021-10-04 11:25:12.375>: [Info] (AZCore): [Game] LogEnvironmentString: REP Address: 3.70.159.3
+<2021-10-04 11:25:12.387>: [Info] (AZCore): [GameConnection] Update state WaitingForQueuedLogin to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:12.394>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoId" S3 key (old: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2021-10-04 11:25:12.394>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:12.850>: [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.CognitoId" async remote config, with S3 key: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless" successfully, size: 67
+
+<2021-10-04 11:25:12.865>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:12.883>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.CognitoIdv" S3 key (old: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/220;1436282"), reset to new value: "applications/public/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/220;1436282"
+<2021-10-04 11:25:12.883>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:12.992>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:13.010>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/2b983e13-7801-4ab8-9475-ce33a18d9e9b/versionless"
+<2021-10-04 11:25:13.011>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:13.119>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:13.137>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/2b983e13-7801-4ab8-9475-ce33a18d9e9b/220;1436282"
+<2021-10-04 11:25:13.138>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:13.246>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:13.264>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoId" S3 key (old: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/versionless"
+<2021-10-04 11:25:13.264>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:13.373>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:13.391>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.CognitoIdv" S3 key (old: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/220;1436282"), reset to new value: "applications/publicGameplay/configuration-sets/CognitoId/us-east-1:0de93f7c-814e-4d48-a8fd-b6efc2f9ed93/220;1436282"
+<2021-10-04 11:25:13.391>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:13.500>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:13.518>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/2b983e13-7801-4ab8-9475-ce33a18d9e9b/versionless"
+<2021-10-04 11:25:13.518>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:13.627>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:13.645>: [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/2b983e13-7801-4ab8-9475-ce33a18d9e9b/220;1436282"
+<2021-10-04 11:25:13.645>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state WaitingForRemoteConfigClass
+<2021-10-04 11:25:13.754>: [Info] (AZCore): [GameConnection] Update state WaitingForRemoteConfigClass to new state QueryForRemoteConfigClass
+<2021-10-04 11:25:13.772>: [Info] (AZCore): [GameConnection] Update state QueryForRemoteConfigClass to new state StartREPConnection
+<2021-10-04 11:25:13.790>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: start REP connection RepAddress = 3.70.159.3, worldId = 2b983e13-7801-4ab8-9475-ce33a18d9e9b
+<2021-10-04 11:25:13.794>: [Info] (AZCore): [GameConnection] Update state StartREPConnection to new state WaitingForREPConnection
+<2021-10-04 11:25:13.979>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: REP socket connection established, now waiting to register
+<2021-10-04 11:25:14.030>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: received registration response from REP
+<2021-10-04 11:25:14.030>: [Info] (AZCore): [Game] LogEnvironmentString: Server version: [RELEASE].Javelin.1.9.220.1434484
+<2021-10-04 11:25:14.046>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: start actor game connection
+<2021-10-04 11:25:14.046>: [Info] (AZCore): [GameConnection] Update state WaitingForREPConnection to new state WaitingForActorGameConnection
+<2021-10-04 11:25:14.118>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: actor game connection succeeds
+<2021-10-04 11:25:14.118>: [Info] (AZCore): [GameConnection] Initialize current retry count : 0
+<2021-10-04 11:25:14.118>: [Info] (AZCore): [GameConnection] Update state WaitingForActorGameConnection to new state WaitingForSpawnPoint
+<2021-10-04 11:25:14.136>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: spawn point found
+<2021-10-04 11:25:14.136>: [Info] (AZCore): [GameConnection] Update state WaitingForSpawnPoint to new state WaitingForAOIClient
+<2021-10-04 11:25:14.227>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2021-10-04 11:25:14.227>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2021-10-04 11:25:14.245>: [Info] (AZCore): [ClientContext] Initialize()
+<2021-10-04 11:25:14.246>: [Info] (AZCore): [ClientContext] Cleanup()
+<2021-10-04 11:25:16.101>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2021-10-04 11:25:16.102>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "frontendv2": starting async unload...
+<2021-10-04 11:25:16.108>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2021-10-04 11:25:16.108>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 1, AssetBus::context.m_queue.size(): 405, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.113>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 1, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.219>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 39, AssetBus::context.m_queue.size(): 2, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.235>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 44, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.251>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 44, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.276>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 43, AssetBus::context.m_queue.size(): 19, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.336>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 49, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.357>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.380>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.402>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 27, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.420>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 16, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.440>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.456>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.473>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 41, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.489>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 1, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.525>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.541>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.557>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.573>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.589>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.605>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.620>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.637>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.653>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 40, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.711>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 33, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.728>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 33, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.743>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 32, AssetBus::context.m_queue.size(): 1, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.792>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 32, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:16.808>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 29, AssetBus::context.m_queue.size(): 3, waitingRefs (from bus): 0
+<2021-10-04 11:25:17.343>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:25:17.343>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2021-10-04 11:25:17.343>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2021-10-04 11:25:20.316>: [Info]: CGame::InitCoatlicueTerrain
+<2021-10-04 11:25:21.136>: [Info] (AZCore): [GDERenderManager] Init()
+<2021-10-04 11:25:21.162>: [Info] (AZCore): [Game] LogEnvironmentString: Player Name: xuppra
+<2021-10-04 11:25:21.162>: [Info] (AZCore): [Game] LogEnvironmentString: Player Actor: AE595B482D0B0A66E58F984433AC4281
+<2021-10-04 11:25:21.248>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2021-10-04 11:25:21.248>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2021-10-04 11:25:21.248>: [Info] (AZCore): [Game] CGame::OnConnectionSucceed
+<2021-10-04 11:25:21.251>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 11:25:22.264>: [Info]: [Vivox] VoiceChatSystemComponent: connected to server
+<2021-10-04 11:25:22.701>: [Info]: [Vivox] VoiceChatClientState: Attempting login as '.amazonUE-nw78.9b7f7427-abde-4ac3-83cd-f10d78f51d29.'...
+<2021-10-04 11:25:23.374>: [Info]: [Vivox] VoiceChatSystemComponent: logged in to server
+<2021-10-04 11:25:26.549>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:25:27.711>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (017006)'...
+<2021-10-04 11:25:28.418>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 11:25:28.883>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:25:29.113>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (017005)'...
+<2021-10-04 11:25:29.957>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 11:25:30.485>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 11:25:30.573>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:25:30.666>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (018005)'...
+<2021-10-04 11:25:32.046>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 11:25:33.738>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:25:34.297>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (018006)'...
+<2021-10-04 11:25:35.029>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 11:25:35.043>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 11:28:23.511>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:28:23.594>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 11:28:23.597>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:28:23.921>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 11:28:23.932>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:28:24.281>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 11:28:24.283>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 11:28:24.621>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 11:28:24.623>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com'
+<2021-10-04 11:28:24.688>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 2d channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com (group)'...
+<2021-10-04 11:28:25.129>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 11:28:25.497>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com' joined
+<2021-10-04 11:28:25.500>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com
+<2021-10-04 11:28:25.500>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com
+<2021-10-04 11:28:25.500>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 11:29:25.529>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2021-10-04 11:29:25.577>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2021-10-04 11:29:25.577>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2021-10-04 11:29:25.593>: [Info] (AZCore): [ClientContext] Initialize()
+<2021-10-04 11:29:25.593>: [Info] (AZCore): [ClientContext] Cleanup()
+<2021-10-04 11:29:25.593>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2021-10-04 11:29:25.613>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 11:29:25.665>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 11:29:25.784>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::HandleResponse 3558 - login != nullptr
+<2021-10-04 11:29:25.784>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 11:29:25.843>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 11:29:25.843>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3976 - login != nullptr
+<2021-10-04 11:29:25.870>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 4027 - login != nullptr
+<2021-10-04 11:29:25.870>: [Info]: [Vivox] VoiceChatSystemComponent: disconnected from server
+<2021-10-04 11:29:25.972>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2021-10-04 11:29:25.974>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NW_Dungeon_Windsward_00" deferred in order to async unload previous level "NewWorld_VitaeEterna": starting async unload...
+<2021-10-04 11:29:25.979>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2021-10-04 11:29:25.979>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 2464, waitingRefs (from bus): 0
+<2021-10-04 11:29:26.029>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 11:29:26.029>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2021-10-04 11:29:26.029>: [Info]: ============================ Loading level NW_Dungeon_Windsward_00 ============================
+<2021-10-04 11:29:28.640>: [Info]: CGame::InitCoatlicueTerrain
+<2021-10-04 11:29:28.840>: [Info] (AZCore): [GDERenderManager] Init()
+<2021-10-04 11:29:29.904>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 11:29:29.904>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 11:29:30.439>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2021-10-04 11:29:30.439>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2021-10-04 11:29:30.439>: [Info] (AZCore): [Game] CGame::OnConnectionSucceed
+<2021-10-04 11:29:30.677>: [Info]: [Vivox] VoiceChatSystemComponent: connected to server
+<2021-10-04 11:29:30.747>: [Info]: [Vivox] VoiceChatClientState: Attempting login as '.amazonUE-nw78.9b7f7427-abde-4ac3-83cd-f10d78f51d29.'...
+<2021-10-04 11:29:31.327>: [Info]: [Vivox] VoiceChatSystemComponent: logged in to server
+<2021-10-04 11:29:32.039>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com'
+<2021-10-04 11:29:32.285>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 2d channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com (group)'...
+<2021-10-04 11:29:32.811>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com' joined
+<2021-10-04 11:29:32.822>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com
+<2021-10-04 11:29:32.822>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com
+<2021-10-04 11:29:32.822>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:08:25.297>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2021-10-04 12:08:25.297>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2021-10-04 12:08:25.297>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2021-10-04 12:08:25.312>: [Info] (AZCore): [ClientContext] Initialize()
+<2021-10-04 12:08:25.312>: [Info] (AZCore): [ClientContext] Cleanup()
+<2021-10-04 12:08:25.312>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2021-10-04 12:08:25.331>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 12:08:25.332>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 12:08:25.418>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::HandleResponse 3558 - login != nullptr
+<2021-10-04 12:08:25.418>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 12:08:25.482>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 12:08:25.482>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3976 - login != nullptr
+<2021-10-04 12:08:25.509>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 4027 - login != nullptr
+<2021-10-04 12:08:25.510>: [Info]: [Vivox] VoiceChatSystemComponent: disconnected from server
+<2021-10-04 12:08:27.287>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2021-10-04 12:08:27.287>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "NW_Dungeon_Windsward_00": starting async unload...
+<2021-10-04 12:08:27.289>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2021-10-04 12:08:27.289>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 655, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.387>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 39, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.409>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 38, AssetBus::context.m_queue.size(): 195, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.436>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.451>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.466>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 40, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.482>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 17, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.498>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.514>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 1, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.542>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.558>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.574>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.590>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.606>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.622>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 29, AssetBus::context.m_queue.size(): 7, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.660>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 29, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:27.676>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 28, AssetBus::context.m_queue.size(): 1, waitingRefs (from bus): 0
+<2021-10-04 12:08:28.151>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:08:28.151>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2021-10-04 12:08:28.152>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2021-10-04 12:08:30.949>: [Info]: CGame::InitCoatlicueTerrain
+<2021-10-04 12:08:31.223>: [Info] (AZCore): [GDERenderManager] Init()
+<2021-10-04 12:08:33.221>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2021-10-04 12:08:33.221>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2021-10-04 12:08:33.221>: [Info] (AZCore): [Game] CGame::OnConnectionSucceed
+<2021-10-04 12:08:33.314>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 12:08:33.318>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 12:08:33.780>: [Info]: [Vivox] VoiceChatSystemComponent: connected to server
+<2021-10-04 12:08:34.096>: [Info]: [Vivox] VoiceChatClientState: Attempting login as '.amazonUE-nw78.9b7f7427-abde-4ac3-83cd-f10d78f51d29.'...
+<2021-10-04 12:08:34.719>: [Info]: [Vivox] VoiceChatSystemComponent: logged in to server
+<2021-10-04 12:08:34.998>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com'
+<2021-10-04 12:08:35.103>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 2d channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com (group)'...
+<2021-10-04 12:08:35.609>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:08:35.625>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com
+<2021-10-04 12:08:35.625>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com
+<2021-10-04 12:08:35.625>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:09:08.318>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com'
+<2021-10-04 12:09:08.388>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com' left
+<2021-10-04 12:09:08.399>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:09:08.462>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (017006)'...
+<2021-10-04 12:09:08.879>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MjkyNDA3ODYw@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 12:09:09.372>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:09:09.387>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:09:09.450>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (017005)'...
+<2021-10-04 12:09:10.921>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:09:10.927>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:09:10.989>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (018005)'...
+<2021-10-04 12:09:12.422>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:09:12.423>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:09:12.484>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (018006)'...
+<2021-10-04 12:09:13.624>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:09:13.628>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:09:13.629>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:15:57.478>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:15:57.560>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 12:15:57.573>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:15:57.891>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 12:15:57.902>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:15:58.233>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 12:15:58.237>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:15:58.561>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 12:15:58.574>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com'
+<2021-10-04 12:15:58.633>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 2d channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com (group)'...
+<2021-10-04 12:15:59.050>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 12:15:59.356>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:15:59.356>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com
+<2021-10-04 12:15:59.356>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com
+<2021-10-04 12:15:59.356>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:18:49.445>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2021-10-04 12:18:49.541>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2021-10-04 12:18:49.541>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2021-10-04 12:18:49.557>: [Info] (AZCore): [ClientContext] Initialize()
+<2021-10-04 12:18:49.557>: [Info] (AZCore): [ClientContext] Cleanup()
+<2021-10-04 12:18:49.557>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2021-10-04 12:18:49.578>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 12:18:49.627>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 12:18:49.873>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::HandleResponse 3558 - login != nullptr
+<2021-10-04 12:18:49.873>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 12:18:49.921>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 12:18:49.921>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3976 - login != nullptr
+<2021-10-04 12:18:49.950>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 4027 - login != nullptr
+<2021-10-04 12:18:49.950>: [Info]: [Vivox] VoiceChatSystemComponent: disconnected from server
+<2021-10-04 12:18:50.079>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2021-10-04 12:18:50.081>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NW_Dungeon_Windsward_00" deferred in order to async unload previous level "NewWorld_VitaeEterna": starting async unload...
+<2021-10-04 12:18:50.088>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<2021-10-04 12:18:50.088>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 2652, waitingRefs (from bus): 0
+<2021-10-04 12:18:50.157>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:18:50.157>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2021-10-04 12:18:50.157>: [Info]: ============================ Loading level NW_Dungeon_Windsward_00 ============================
+<2021-10-04 12:18:53.255>: [Info]: CGame::InitCoatlicueTerrain
+<2021-10-04 12:18:53.494>: [Info] (AZCore): [GDERenderManager] Init()
+<2021-10-04 12:18:54.702>: [Info]: SerializeOptions: Success
+<2021-10-04 12:18:54.702>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2021-10-04 12:18:55.548>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2021-10-04 12:18:55.548>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2021-10-04 12:18:55.548>: [Info] (AZCore): [Game] CGame::OnConnectionSucceed
+<2021-10-04 12:18:55.603>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 12:18:55.603>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 12:18:56.083>: [Info]: [Vivox] VoiceChatSystemComponent: connected to server
+<2021-10-04 12:18:56.274>: [Info]: [Vivox] VoiceChatClientState: Attempting login as '.amazonUE-nw78.9b7f7427-abde-4ac3-83cd-f10d78f51d29.'...
+<2021-10-04 12:18:56.918>: [Info]: [Vivox] VoiceChatSystemComponent: logged in to server
+<2021-10-04 12:18:57.592>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com'
+<2021-10-04 12:18:57.839>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 2d channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com (group)'...
+<2021-10-04 12:18:58.325>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:18:58.327>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com
+<2021-10-04 12:18:58.327>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com
+<2021-10-04 12:18:58.327>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:19:48.006>: [Info] (AZCore): [SteamAuth] Attempting to refresh AWS credentials
+<2021-10-04 12:19:48.006>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d1w0bfy6smo4d1.cloudfront.net/prod/credentials
+<2021-10-04 12:19:48.172>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2021-10-04T13:14:46Z
+<2021-10-04 12:19:48.172>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2021-10-04T13:14:46Z
+<2021-10-04 12:19:48.186>: [Info] (AZCore): [SteamAuth] Successfully updated AWS credentials.
+<2021-10-04 12:55:26.746>: [Info] (AZCore): [GameConnection] Update state InGame to new state WaitingForAOIClient
+<2021-10-04 12:55:26.746>: [Info] (AZCore): [ClientContext] Initialize()
+<2021-10-04 12:55:26.746>: [Info] (AZCore): [ClientContext] Cleanup()
+<2021-10-04 12:55:26.746>: [Info] (AZCore): [GDERenderManager] Releasing resources!
+<2021-10-04 12:55:26.764>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 12:55:26.766>: [Info] (AZCore): [streamingGDEManager] Shutting down and releasing regions
+<2021-10-04 12:55:26.844>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::HandleResponse 3558 - login != nullptr
+<2021-10-04 12:55:26.844>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 12:55:26.936>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3952 - login != nullptr
+<2021-10-04 12:55:26.936>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 3976 - login != nullptr
+<2021-10-04 12:55:26.963>: [Info]: [Vivox]ASSERT VivoxClientApi::ClientConnectionImpl::DispatchEvent 4027 - login != nullptr
+<2021-10-04 12:55:26.964>: [Info]: [Vivox] VoiceChatSystemComponent: disconnected from server
+<2021-10-04 12:55:28.673>: [Info] (AZCore): [streamingGDEManager] Initialize()
+<2021-10-04 12:55:28.674>: [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "NW_Dungeon_Windsward_00": starting async unload...
+<2021-10-04 12:55:28.675>: [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForAOIClient"
+<2021-10-04 12:55:28.675>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 663, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.675>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<2021-10-04 12:55:28.675>: [Info] (AZCore): [GameConnection] Update state WaitingForAOIClient to new state WaitingForPlayerSpawn
+<2021-10-04 12:55:28.779>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 39, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.800>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 38, AssetBus::context.m_queue.size(): 148, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.833>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.848>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.865>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 36, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.881>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 13, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.897>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 37, AssetBus::context.m_queue.size(): 8, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.913>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 1, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.944>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.960>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.976>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 36, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:28.992>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 29, AssetBus::context.m_queue.size(): 7, waitingRefs (from bus): 0
+<2021-10-04 12:55:29.034>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 29, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:29.051>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 28, AssetBus::context.m_queue.size(): 1, waitingRefs (from bus): 0
+<2021-10-04 12:55:29.307>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 13, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:29.323>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 7, AssetBus::context.m_queue.size(): 6, waitingRefs (from bus): 0
+<2021-10-04 12:55:29.340>: [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 5, AssetBus::context.m_queue.size(): 12, waitingRefs (from bus): 0
+<2021-10-04 12:55:29.543>: [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<2021-10-04 12:55:29.543>: [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<2021-10-04 12:55:29.543>: [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<2021-10-04 12:55:32.539>: [Info]: CGame::InitCoatlicueTerrain
+<2021-10-04 12:55:32.838>: [Info] (AZCore): [GDERenderManager] Init()
+<2021-10-04 12:55:34.902>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<2021-10-04 12:55:34.902>: [Info] (AZCore): [GameConnection] Update state WaitingForPlayerSpawn to new state InGame
+<2021-10-04 12:55:34.902>: [Info] (AZCore): [Game] CGame::OnConnectionSucceed
+<2021-10-04 12:55:35.034>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 12:55:35.034>: [Info]: [ERROR] ClientSDK: Failed to unmarshal message: num_bytes=37, type=B17946984E434968A9EAC5E0A83E12A7
+<2021-10-04 12:55:35.710>: [Info]: [Vivox] VoiceChatSystemComponent: connected to server
+<2021-10-04 12:55:35.810>: [Info]: [Vivox] VoiceChatClientState: Attempting login as '.amazonUE-nw78.9b7f7427-abde-4ac3-83cd-f10d78f51d29.'...
+<2021-10-04 12:55:36.470>: [Info]: [Vivox] VoiceChatSystemComponent: logged in to server
+<2021-10-04 12:55:36.533>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com'
+<2021-10-04 12:55:36.595>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 2d channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com (group)'...
+<2021-10-04 12:55:37.090>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:55:37.095>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com
+<2021-10-04 12:55:37.096>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com
+<2021-10-04 12:55:37.096>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:56:25.640>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com'
+<2021-10-04 12:56:25.717>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com' left
+<2021-10-04 12:56:25.724>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:56:25.779>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (017006)'...
+<2021-10-04 12:56:26.194>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-g-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-Mjc5OTQ1MjE5@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 12:56:26.654>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:56:26.659>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:56:26.711>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (017005)'...
+<2021-10-04 12:56:28.124>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:56:28.134>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:56:28.187>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (018005)'...
+<2021-10-04 12:56:29.608>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:56:29.612>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:56:29.687>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (018006)'...
+<2021-10-04 12:56:31.107>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:56:31.110>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 12:56:31.110>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 12:56:31.110>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 12:56:31.110>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 12:56:31.110>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 12:56:31.110>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 12:56:31.110>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:56:31.111>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:56:31.111>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:58:34.985>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:58:35.105>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 12:58:35.185>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:58:35.437>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 12:58:35.614>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:58:36.053>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (018004)'...
+<2021-10-04 12:58:36.275>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 12:58:37.356>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:58:37.407>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 12:58:37.486>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (017004)'...
+<2021-10-04 12:58:38.920>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017004
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018004
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:58:38.942>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 12:58:38.943>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:11:50.946>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:11:51.030>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:11:51.044>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:11:51.390>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:11:51.411>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:11:51.494>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (017006)'...
+<2021-10-04 13:11:51.880>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:11:52.434>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:11:52.434>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:11:52.485>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (018006)'...
+<2021-10-04 13:11:52.691>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:11:53.625>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:11:53.643>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:14:28.062>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:14:28.062>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:14:28.062>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:14:28.062>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:14:28.062>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:14:28.062>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:14:28.062>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:14:28.063>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:14:28.063>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:14:46.001>: [Info] (AZCore): [SteamAuth] Attempting to refresh AWS credentials
+<2021-10-04 13:14:46.001>: [Info] (AZCore): [SteamAuth] Calling Http API: https://d1w0bfy6smo4d1.cloudfront.net/prod/credentials
+<2021-10-04 13:14:46.342>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2021-10-04T14:09:45Z
+<2021-10-04 13:14:46.342>: [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2021-10-04T14:09:45Z
+<2021-10-04 13:14:46.362>: [Info] (AZCore): [SteamAuth] Successfully updated AWS credentials.
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:18.202>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:19.719>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:16:46.876>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:19:01.381>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:19:01.382>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:21:08.374>: [Info]: SerializeOptions: Success
+<2021-10-04 13:21:08.374>: [Info]: SerializeOptions: Moving to C:/Users/cedric/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:49.621>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:49.622>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:51.136>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:23:55.663>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:15.257>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:18.291>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:18.291>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:18.291>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:18.291>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:18.292>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:18.292>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:18.292>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:18.292>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:18.292>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:19.782>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:25.832>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:25.832>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:25.832>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:25.832>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:25.832>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:25.832>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:25.832>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:25.833>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:25.833>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:27.332>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:27.332>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:27.332>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:27.332>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:27.332>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:27.332>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:27.332>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:27.333>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:27.333>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:28.844>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:28.845>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:30.360>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:30.360>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:30.360>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:30.360>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:30.361>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:30.361>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:30.361>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:30.361>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:30.361>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:33.406>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:36.422>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:36.422>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:36.422>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:36.422>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:36.422>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:36.422>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:36.422>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:36.423>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:36.423>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:37.928>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:37.928>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:37.928>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:37.928>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:37.928>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:37.928>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:37.928>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:37.929>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:37.929>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:39.452>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:39.453>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:24:40.954>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:00.553>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:05.104>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:25:05.104>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:25:05.104>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:25:05.104>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:25:05.105>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:05.105>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:05.105>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:05.105>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:05.105>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:09.632>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:12.657>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:17.214>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:35.314>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:25:35.314>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:25:35.314>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:25:35.314>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:25:35.315>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:35.315>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:25:35.315>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:35.315>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:25:35.315>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:28:03.216>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:28:03.314>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:28:03.336>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:28:03.640>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:28:03.653>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:28:03.717>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (018004)'...
+<2021-10-04 13:28:04.141>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 13:28:05.293>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:28:05.317>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:28:05.390>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (017004)'...
+<2021-10-04 13:28:06.844>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:28:06.854>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017004
+<2021-10-04 13:28:06.854>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018004
+<2021-10-04 13:28:06.854>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:28:06.854>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:28:06.854>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:28:06.854>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:28:06.854>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:28:06.855>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:28:06.855>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:40:13.165>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:13.311>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:40:13.393>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:13.671>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:40:13.804>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:13.998>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:40:14.056>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:14.407>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:40:14.511>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:14.714>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (016005)'...
+<2021-10-04 13:40:14.938>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 13:40:15.592>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:40:15.628>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:15.716>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (015004)'...
+<2021-10-04 13:40:16.670>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:40:16.702>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:16.774>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (015005)'...
+<2021-10-04 13:40:18.172>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:40:18.175>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:40:18.243>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (016004)'...
+<2021-10-04 13:40:19.686>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016004
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015005
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 015004
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:40:19.697>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:42:36.816>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:36.876>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:42:36.992>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:37.220>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:42:37.366>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:37.547>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:42:37.636>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:37.903>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE1MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:42:37.913>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:38.197>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (017005)'...
+<2021-10-04 13:42:38.408>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE2MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 13:42:39.782>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:42:39.808>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:40.163>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (018004)'...
+<2021-10-04 13:42:41.483>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:42:41.484>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:41.554>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (018005)'...
+<2021-10-04 13:42:43.168>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:42:43.198>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:42:43.296>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (017004)'...
+<2021-10-04 13:42:44.856>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017004
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018004
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:42:44.873>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:43:42.133>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:43:42.231>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:43:42.239>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:43:42.578>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:43:42.589>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:43:42.655>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com (019004)'...
+<2021-10-04 13:43:43.042>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 13:43:43.313>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:43:43.326>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:43:43.400>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (019005)'...
+<2021-10-04 13:43:44.763>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018004
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019005
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:43:44.781>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:44:13.834>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:44:13.889>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:44:13.905>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:44:14.202>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:44:14.213>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:44:14.270>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (019006)'...
+<2021-10-04 13:44:14.688>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA0!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 13:44:15.156>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:44:15.166>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:44:15.233>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (018006)'...
+<2021-10-04 13:44:16.434>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:44:16.443>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019006
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019005
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:44:16.444>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:44:16.461>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:44:16.749>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:44:16.766>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:44:17.062>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:44:17.068>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019005
+<2021-10-04 13:44:17.068>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:44:17.068>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:44:17.068>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:44:17.083>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:44:17.141>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (018006)'...
+<2021-10-04 13:44:17.317>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:44:17.511>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:44:18.407>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:44:18.421>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:44:18.421>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019005
+<2021-10-04 13:44:18.421>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:44:18.421>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:44:18.421>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE4MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:44:18.421>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:44:18.422>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:45:21.816>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:45:21.880>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (019006)'...
+<2021-10-04 13:45:22.105>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:45:22.625>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019005
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:45:22.642>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:49:56.693>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:49:56.777>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:49:56.787>: [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:49:57.107>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' left
+<2021-10-04 13:49:57.113>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:49:57.174>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com (017006)'...
+<2021-10-04 13:49:57.574>: [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE5MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com due to error 1001 (Target Object Does Not Exist; )
+<2021-10-04 13:49:58.125>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:49:58.133>: [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com'
+<2021-10-04 13:49:58.193>: [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com (017005)'...
+<2021-10-04 13:49:59.715>: [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA1!p-20-1-1.000-3@anwxp0euc1.vivox.com' joined
+<2021-10-04 13:49:59.726>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018006
+<2021-10-04 13:49:59.726>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017005
+<2021-10-04 13:49:59.726>: [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018005
+<2021-10-04 13:49:59.726>: [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<2021-10-04 13:49:59.727>: [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:49:59.727>: [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amazonUE-nw78.jav-2b983e13-7801-4ab8-9475-ce33a18d9e9b-MDE3MDA2!p-20-1-1.000-3@anwxp0euc1.vivox.com
+<2021-10-04 13:49:59.727>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:49:59.727>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:49:59.727>: [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<2021-10-04 13:52:00.715>: [Info] (AZCore): [Game] CGame::ActorContainerDisconnect
+<2021-10-04 13:52:00.715>: [Info] (AZCore): [GameConnection] GameConnectionWrapper::Disconnect
+<2021-10-04 13:52:00.715>: [Info] (AZCore): [Game] CGame::OnDisconnection: Disconnected from REP
+<2021-10-04 13:52:00.728>: [Info] (AZCore): [GameConnection] GameConnectionWrapper: disconnected from REP
+<2021-10-04 13:52:00.739>: [Info]: [ERROR] ClientSDK: @mm_csdkerr_disconnect
+<2021-10-04 13:52:01.862>: [Info] (AZCore): [GameConnection] Update state InGame to new state Disconnected
+<2021-10-04 13:52:01.862>: [Info]: CSystem::Quit invoked from thread 1328 (main is 1328)
+<2021-10-04 13:52:01.862>: [Info] (AZCore): [Game] CGame::ActorContainerDisconnect
